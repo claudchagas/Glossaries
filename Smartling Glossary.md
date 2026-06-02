@@ -129,6 +129,11 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | remote browser isolation | — | —| —| —| — | isolamento de navegador remoto |
 | dark web monitoring | — | —| —| —| — | imonitoramento da dark web |
 | autofill | — | —| —| —| — | preenchimento automático |
+| piping | — | —| —| —| — | tubulações |
+| vessels | — | —| —| —| — | vasos |
+| heat exchangers | — | —| —| —| — | trocadores de calor |
+| pumps | — | —| —| —| — | bombas |
+| valves | — | —| —| —| — | válvulas |
 ---
 
 A few notes worth flagging:
