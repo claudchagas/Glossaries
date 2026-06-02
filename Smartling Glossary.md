@@ -134,11 +134,12 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | heat exchangers | — | —| —| —| — | trocadores de calor |
 | pumps | — | —| —| —| — | bombas |
 | valves | — | —| —| —| — | válvulas |
- | ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | —| —| —| — | posse |
- | brainstorm | — | —| —| —| — | brainstorming |
-  | collaborator color | — | —| —| —| — | cor distinta para cada participante |
- | collaborator colors | — | —| —| —| — | cores distintas para cada participante |
-  | goals | — | —| —| —| — | metas |
+| ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | —| —| —| — | posse |
+| brainstorm | — | —| —| —| — | brainstorming |
+| collaborator color | — | —| —| —| — | cor distinta para cada participante |
+| collaborator colors | — | —| —| —| — | cores distintas para cada participante |
+| goals | — | —| —| —| — | metas |
+| Shoutouts | — | —| —| —| — | Parabéns |
 ---
 
 A few notes worth flagging:
