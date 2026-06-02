@@ -138,6 +138,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
  | brainstorm | — | —| —| —| — | brainstorming |
   | collaborator color | — | —| —| —| — | cor distinta para cada participante |
  | collaborator colors | — | —| —| —| — | cores distintas para cada participante |
+  | goals | — | —| —| —| — | metas |
 ---
 
 A few notes worth flagging:
