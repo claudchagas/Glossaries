@@ -140,6 +140,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | collaborator colors | — | —| —| —| — | cores distintas para cada participante |
 | goals | — | —| —| —| — | metas |
 | Shoutouts | — | —| —| —| — | Parabéns |
+| facilitator tools | — | —| —| —| — | ferramentas para facilitadores |
 ---
 
 A few notes worth flagging:
