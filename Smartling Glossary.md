@@ -141,6 +141,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | goals | — | —| —| —| — | metas |
 | Shoutouts | — | —| —| —| — | Parabéns |
 | facilitator tools | — | —| —| —| — | ferramentas para facilitadores |
+| laser pointer | — | —| —| —| — | ponteiro de laser |
 ---
 
 A few notes worth flagging:
