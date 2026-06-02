@@ -80,6 +80,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | piping and instrument diagram | — | —| —| —| — | diagrama de tubulação e instrumentos |
 | P&ID | — | —| —| —| — | diagrama de tubagens e instrumentos |
 | P&ID Diagram | — | —| —| —| — | diagrama hidráulico |
+| process flow diagrams | — | —| —| —| — | diagrama de fluxo de processo |
 | containers | — | —| —| —| — | caixas |
 | quick stickies | — | —| —| —| — | notas rápidas |
 | auto-nudging | — | —| —| —| — | ajuste automático |
