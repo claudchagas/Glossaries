@@ -143,6 +143,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | facilitator tools | — | —| —| —| — | ferramentas para facilitadores |
 | laser pointer | — | —| —| —| — | ponteiro de laser |
 | ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | —| —| —| — | posse |
+| sprint planning | — | —| —| —| — | planejamento sprint |
 ---
 
 A few notes worth flagging:
