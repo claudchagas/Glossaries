@@ -79,7 +79,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Google Calendar | — | —| —| —| — | Google Agenda |
 | piping and instrument diagram | — | —| —| —| — | diagrama de tubulação e instrumentos |
 | P&ID | — | —| —| —| — | diagrama de tubagens e instrumentos |
-| P&ID Diagram | — | —| —| —| diagrama hidráulico | circuito hidráulico |
+| P&ID Diagram | — | —| —| —| — | diagrama hidráulico |
 | containers | — | —| —| —| — | caixas |
 | quick stickies | — | —| —| —| — | notas rápidas |
 | auto-nudging | — | —| —| —| — | ajuste automático |
