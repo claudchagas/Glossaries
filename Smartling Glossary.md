@@ -147,6 +147,11 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Shapes menu | — | —| —| —| — | Menu de formas |
 | add-in | — | —| —| —| — | suplemento |
 | auto-prompt menu | — | —| —| —| — | menu de solicitação automática |
+| share button | — | —| —| —| — | botão de compartilhamento |
+| auto-prompt menu | — | —| —| —| — | menu de solicitação automática |
+| single sign-on | — | —| —| —| — | autenticação única (SSO) |
+| data linking | — | —| —| —| — | vinculação de dados |
+| single sign-on | — | —| —| —| — | autenticação única (SSO) |
 ---
 
 A few notes worth flagging:
