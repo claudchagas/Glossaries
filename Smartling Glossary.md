@@ -144,6 +144,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | laser pointer | — | —| —| —| — | ponteiro de laser |
 | ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | —| —| —| — | posse |
 | sprint planning | — | —| —| —| — | planejamento sprint |
+| Shapes menu | — | —| —| —| — | Menu de formas |
 ---
 
 A few notes worth flagging:
