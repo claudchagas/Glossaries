@@ -146,6 +146,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | sprint planning | — | —| —| —| — | planejamento sprint |
 | Shapes menu | — | —| —| —| — | Menu de formas |
 | add-in | — | —| —| —| — | suplemento |
+| auto-prompt menu | — | —| —| —| — | menu de solicitação automática |
 ---
 
 A few notes worth flagging:
