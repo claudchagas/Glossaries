@@ -151,7 +151,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | auto-prompt menu | — | —| —| —| — | menu de solicitação automática |
 | single sign-on | — | —| —| —| — | autenticação única (SSO) |
 | data linking | — | —| —| —| — | vinculação de dados |
-| single sign-on | — | —| —| —| — | autenticação única (SSO) |
+| educators | — | —| —| —| — | professores |
 ---
 
 A few notes worth flagging:
