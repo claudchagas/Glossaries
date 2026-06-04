@@ -153,6 +153,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | data linking | — | —| —| —| — | vinculação de dados |
 | educators | — | —| —| —| — | professores |
 | shareable link | — | —| —| —| — | link compartilhável |
+| cross-functional | — | —| —| —| — | multifuncional |
 ---
 
 A few notes worth flagging:
