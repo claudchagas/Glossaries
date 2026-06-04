@@ -152,6 +152,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | single sign-on | — | —| —| —| — | autenticação única (SSO) |
 | data linking | — | —| —| —| — | vinculação de dados |
 | educators | — | —| —| —| — | professores |
+| shareable link | — | —| —| —| — | link compartilhável |
 ---
 
 A few notes worth flagging:
