@@ -149,6 +149,7 @@
 | empathy map |  | — | — | — |  | mapa de empatia |
 | Enterprise | We offer many subscription levels. The highest is Enterprise.  Others include Basic, Pro, and Team | Noun | — | — |  | empresa |
 | Enterprise Shield | An optional add-on (extension) that can be purchased to add additional features and security to Lucid Enterprise accounts. | Noun | — | Yes |  |  |
+| endpoint node | — | —| —| —| — | nó de desfecho |
 | entity |  | — | — | — |  | entidade |
 | entity relationship |  | — | — | — |  | entidades e relacionamentos |
 | entity relationship diagram |  | — | — | — |  | diagrama de entidades e relacionamentos |
