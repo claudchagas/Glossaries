@@ -139,6 +139,7 @@
 | database schema |  | — | — | — |  | esquema de base de dados |
 | database table |  | — | — | — |  | tabela de base de dados |
 | decision tree |  | — | — | — |  | árvore de decisão |
+| decision tree template | — | —| —| —| exemplos de árvore de decisão | exemplo de árvore de decisão |
 | deployment diagram |  | — | — | — |  | diagrama de implementação |
 | DFD | Data-flow diagram (DFD) | — | — | — |  | DFD |
 | diagram |  | — | — | — |  | diagrama |
