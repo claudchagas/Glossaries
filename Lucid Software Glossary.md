@@ -451,3 +451,4 @@ Here is the complete Markdown table (1,198 unique entries)  built from all 8 pag
 | poll |  | — | — | — |  | enquete |
 | full screen |  | — | — | — |  | tela cheia |
 | mind map |  |  | — | — | — | mapa mental |
+| Lucidchart Add-on |  |  | — | — | — | extensão do Lucidchart |
