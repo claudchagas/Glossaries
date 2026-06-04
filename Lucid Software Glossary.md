@@ -169,7 +169,7 @@
 | Filters | Ability to filter the data used to create the diagram to provide focus | — | — | — |  | filtros |
 | find & replace |  | — | — | — |  | localizar e substituir |
 | finite-state machine | A state machine is a behavior model. It consists of a finite number of states and is therefore also called finite-state machine (FSM). | — | — | — |  | máquina de estados finitos |
-| fishbone diagram | диаграмма Исикавы | — | — | — |  | diagrama de espinha de peixe |
+| fishbone diagram | The Ishikawa Diagram, also known as the Cause-and-Effect Diagram or Fishbone Diagram, is a visual quality management tool used to identify and organize the root causes of a problem. | — | — | — |  | diagrama de espinha de peixe |
 | flowchart |  | — | — | — |  | fluxograma |
 | flowchart examples |  | — | — | — |  | exemplos de fluxograma |
 | flowchart maker |  | — | — | — |  | fluxograma online |
