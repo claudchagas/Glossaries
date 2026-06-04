@@ -1,368 +1,453 @@
-Here is the complete Markdown table built from all 8 pages of the Portuguese Glossary:
+Here is the complete Markdown table (1,198 unique entries)  built from all 8 pages of the Portuguese Glossary:
 
-| English | Definition | Part of Speech | Source Case Sensitive? | Mandatory DNT | Portuguese Variations (Brazil) | [pt-BR] |
+| English | Definition | Part of Speech | Source Case Sensitive? | Mandatory DNT | Notes | [pt-BR] |
 |---|---|---|---|---|---|---|
-| Process Agent | — | Noun | — | — | — | Agente de Processo |
-| Agile | Agile methodology | — | — | — | — | Ágil |
-| smart containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — | — | Caixas Inteligentes |
-| Team Hubs | — | — | — | — | — | Centrais de Equipe |
-| business model canvas | — | — | — | — | — | Business Model Canvas |
-| Lucid teams | — | — | — | — | — | equipes da Lucid |
-| All-Access Agile | The name of a video course series our company made about the Agile methodology. | — | — | — | — | Acesso Total Ágil |
-| airfocus | airfocus is a project management software offering from Lucid Software. airfocus is not capitalized and should be written with a lowecase a. | — | — | — | — | — |
-| ERDs | Entity relationship diagrams. DERs = diagramas de entidade-relacionamento | — | — | — | — | DERs |
-| visual activities icon | — | — | — | — | — | ícone de Atividades Visuais |
-| Lucidspark | Product name | — | — | — | — | Lucidspark |
-| visuals | — | — | — | — | — | recursos visuais |
-| work acceleration | — | — | — | — | — | aceleração do trabalho |
-| workflow | — | — | — | — | — | fluxo de trabalho |
-| Agility teams | How we call the teams that use our Agility Accelerator software. | — | — | — | — | equipes de Agilidade |
-| blueprint creator | A role that a user may have within our software platform. | — | — | — | — | criador de estratagema |
-| Agility contributor | A role given to a person in our Agility Accelerator extension within our software. | — | — | — | — | colaborador de Agilidade |
-| PERT Chart | — | — | — | — | — | diagrama de PERT |
-| ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | — | — | — | — | posse |
-| Google Workspace | — | — | — | Yes | — | — |
-| Lucid license | — | — | — | — | — | licença da Lucid |
-| Sign up free | — | — | — | — | — | Teste grátis |
-| Lucid Cards for Azure DevOps | Import ADO work items, create new ADO work items, convert sticky notes and shapes into ADO work items, and ensure work is always up to date with two-way bidirectional sync. | — | — | — | — | Fichas da Lucid para o Azure DevOps |
-| Lucid Cards for Smartsheet | Import Smartsheet tasks & rows, create new tasks & rows, convert sticky notes and shapes into tasks & rows, and ensure work is always up to date with two-way bidirectional sync. | — | — | — | — | Fichas da Lucid para o Smartsheet |
-| Agility Accelerator Manager | — | — | — | — | — | Gerente da Extensão Agilidade |
-| Collaborative AI | — | — | — | — | — | IA Colaborativa |
-| Lucid AI | Lucid AI is the brand term for our AI features in our software offerings. | — | — | — | — | Lucid IA |
-| See and build the future | A common slogan that our brand uses. | — | — | — | — | Veja e crie o futuro |
-| Agility Accelerator | An optional extension that can be purchased in our software. | — | — | — | — | Extensão Agilidade |
-| Agile Accelerator | An add-on that can be purchased in our platform, that adds more features for teams using the Agile method for planning projects. | — | — | — | — | Extensão Agilidade |
-| process owner | — | — | — | — | — | dono do processo |
-| work breakdown structure | — | — | — | — | — | estrutura analítica do projeto |
-| @mention | Ability to tag someone via Comments. | — | — | — | — | função de marcar colegas com @ |
-| Cloud Accelerator | An add-on that can be purchased in our platform, that adds more features related to cloud computing. | — | — | — | — | Extensão Nuvem |
-| Agile Accelerator Manager | — | — | — | — | — | Gerente da Extensão Ágil |
-| Agile manager | — | — | — | — | — | Gerente Ágil |
-| Cloud Accelerator Manager | — | — | — | — | — | Gerente da Extensão Nuvem |
-| cloud manager | — | — | — | — | — | Gerente de Nuvem |
-| Accelerator Manager | — | — | — | — | — | Gerente de Extensões |
-| accelerators | Add-ons that can be purchased in our product. | — | — | — | — | extensões |
-| Airfocus Accelerator | An extension in Lucid's software that allow it to integrate and work with the airfocus software. | — | — | — | — | Extensão Airfocus |
-| Blueprint | A set of templates that can be shared to a set of teams hubs by the add-on manager | — | — | — | — | Estratagema |
-| Team Planner | — | — | — | — | — | Planejador de Equipes |
-| Process Accelerator | An add-on that can be purchased in our platform, that adds more features related to processes. | — | — | — | — | Extensão Processos |
-| Educators | Educators are teachers and/or professors. | — | — | — | — | Professores |
-| Education Premium | A paid premium account that we offer for educational use cases. | — | — | — | — | Educação Premium |
-| Insights | Data that is aggregated from multiple documents created from blueprints. This data is defined in blueprints by the Agile manager and aggregated in dashboards. | — | — | — | — | — |
-| Pro Individual | One of the paid plans for our product. It is called Pro Individual. | — | — | — | — | Pro Individual |
-| Pro Team | One of the paid plans for our product. It is called Pro Team. | — | — | — | — | Pro Equipe |
-| facilitator tools | Enable by clicking "Make me a facilitator" in Collaborator Tools, which opens a new toolkit that includes the laser pointer, Take the lead, Broadcast - must have edit and share access | — | — | — | — | Ferramentas para Facilitadores |
-| single source of truth | A centralized space to keep all up-to-date information about a project, team, or company. | — | — | — | — | fonte central de informações |
-| Timeline | Flexible table that allows users to engage in freeform planning (re-order cards vertically, customize date ranges and time units, group or pivot on the Y axis). Not linked to a back-end data system. | — | — | — | — | linha do tempo |
-| facilitate | — | — | — | — | — | conduzir |
-| in-product chat | — | — | — | — | — | bate-papo no próprio editor |
-| scrum board | — | — | — | — | — | quadro Scrum |
-| Google Cloud | Google Cloud is the name of Google's cloud services | — | — | — | — | — |
-| posts | — | — | — | — | — | publicação |
-| visual activities | Visual Activities automatically turn qualitative feedback into actionable insights that fuel collaborative decisions. | — | — | — | — | Atividades Visuais |
-| Onboarding | Period where a new employee is learning the procedures of a company though trainings and tutorials. Or when a new user is learning how to use a software product through trainings and tutorials. | — | — | — | — | ambientação |
-| Lucid documents | — | — | — | — | — | documentos da Lucid |
-| Lucid account | — | — | — | — | — | conta da Lucid |
-| Training labs | Our repository of tutorials, how-to guides, and courses that teach users how to use our softwares. | — | — | — | — | Oficina de Treinamentos |
-| lesson plans | — | — | — | — | — | — |
-| single sign-on (SSO) | — | — | — | — | — | início de sessão único (SSO) |
-| Populate | — | — | — | — | — | — |
-| activity | — | — | — | — | — | atividade |
-| reference key column | — | — | — | — | — | — |
-| template library | — | — | — | — | — | biblioteca de modelos |
-| More menu | Menu to the right of the board title where users can choose to snap to objects and show grid and access keyboard shortcuts | — | — | — | — | opções adicionais |
-| brainstorming and ideation | Lucidspark template category name | — | — | — | — | brainstorming e geração de ideias |
-| finite-state machine | A state machine is a behavior model. It consists of a finite number of states and is therefore also called finite-state machine (FSM). | — | — | — | — | máquina de estados finitos |
-| unique identifier | — | — | — | — | — | identificador único |
-| collaborators | — | — | — | — | — | colaboradores |
-| vector format | — | — | — | — | — | — |
-| master page | — | — | — | — | — | página principal |
-| data set | — | — | — | — | — | conjunto de dados |
-| shift | — | — | — | — | — | alterar |
-| spreads | — | — | — | — | — | — |
-| use case diagram | — | — | — | — | — | diagrama de casos de uso |
-| custom shape | — | — | — | — | — | forma personalizada |
-| high-entropy | — | — | — | — | — | alta entropia |
-| shapes library | — | — | — | — | — | — |
-| string of text | — | — | — | — | — | cadeia de texto |
-| Advanced shape bar | Bar that appears for managing swimlanes, timelines, or other advanced shapes | — | — | — | — | barra de ferramentas avançadas de formas |
-| Javascript console | The JavaScript console is a command line interface in a browser that can execute snippets of code. It is widely used for debugging purposes. | — | — | — | — | console de JavaScript |
-| arrowhead | — | — | — | — | — | ponta de seta |
-| Thought leadership | — | — | — | — | — | Especialista no assunto |
-| revision history | Log of changes made to the Lucidspark board. This lives in the Canvas Controls section at the bottom of the workspace. | — | — | — | — | histórico de revisões |
-| font | — | — | — | — | — | fonte |
-| emoji search | Users can search for emojis in the image library, then drag them onto the board as image files. | — | — | — | — | pesquisa de emojis |
-| activities | Engaging visual surveys that collect input from each participant and display the aggregated results, facilitating better decisions. | — | — | — | — | atividades |
-| Business Process Management Initiative | — | — | — | — | — | — |
-| Admin | — | — | — | — | — | Administrador |
-| canvas view controls | This is the bottom right corner of the workspace. It includes: full screen mode, mini map, zoom in/ out | — | — | — | — | controles de visualização da tela |
-| mockup | — | — | — | — | — | mockup |
-| process mapping | — | — | — | — | — | mapeamento de processos |
-| Containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — | — | Caixa |
-| entity | — | — | — | — | — | entidade |
-| project planning | Lucidspark template category name | — | — | — | — | planejamento de projetos |
-| JSON text | JSON is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays. | — | — | — | — | texto JSON |
-| Group admin | — | — | — | — | — | administrador do grupo |
-| how to make a flowchart | — | — | — | — | — | como fazer um fluxograma |
-| magnifying glass icon | — | — | — | — | — | ícone de lupa |
-| DFD | Data-flow diagram (DFD) | — | — | — | — | DFD |
-| one-sided arrow | — | — | — | — | — | seta de um sentido |
-| CloudFormation | — | — | — | — | — | CloudFormation |
-| Margen interior | — | — | — | — | — | — |
-| video icon | — | — | — | — | — | ícone de vídeo |
-| data linking | — | — | — | — | — | vinculação de dados |
-| selection voting | Rather than including all board content in a voting session, users can now select which portions of the board they would like participants to vote on. | — | — | — | — | Votação Seletiva |
-| text styling option | — | — | — | — | — | opção de estilo de texto |
-| shape libraries | — | — | — | — | — | — |
-| infinite canvas | Boundless working area | — | — | — | — | tela infinita |
-| Dropbox | Dropbox is a cloud based storage company | — | — | — | — | Dropbox |
-| resources panel | Panel on the left of the canvas showing resources in your dataset with controls to show/hide individual resources and categories of resources | — | — | — | — | painel de recursos |
-| Team Bundle | Lucidspark + Lucidchart that include all of the Team plan features | — | — | — | — | Pacote de Equipe |
-| custom data field | — | — | — | — | — | campo de dados personalizados |
-| Box | Box is a third party, cloud-based storage offering (i.e., www.box.com) | — | — | — | — | Box |
-| Save changes | — | — | — | — | — | salvar alterações |
-| numbered list | — | — | — | — | — | lista numerada |
-| Top Contributor | — | — | — | — | — | Principal colaborador |
-| drag and drop interface | — | — | — | — | — | interface de arrastar e soltar |
-| influence map | — | — | — | — | — | mapa de influência |
-| Account-only | Account-only refers to the share link being restricted to only users on the same account (ex: If a Lucid employee were to restrict a link to "account-only," then only Lucid employees would be able to access it) | — | — | — | — | Restrito à usuários da mesma conta |
-| Agile development | Lucidspark template category name | — | — | — | — | Metodologia Ágil |
-| structure diagram | — | — | — | — | — | — |
-| WBS matric | — | — | — | — | — | matriz WBS |
-| find & replace | — | — | — | — | — | localizar e substituir |
-| Application / Product | What we call the producs Lucid offers - Lucidchart application or Lucidchart product | — | — | — | — | Aplicativo/Product |
-| curved line | — | — | — | — | — | linha curva |
-| Marketplace | Lucid integrations marketplace - a hub for all integrations. | — | — | — | — | Marketplace |
-| smart line | — | — | — | — | — | linha inteligente |
-| Microsoft Teams | Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. | — | — | — | — | Microsoft Teams |
-| power users | — | — | — | — | — | — |
-| plain text | — | — | — | — | — | — |
-| breakout rooms | — | — | — | — | — | murais simultâneos |
-| CTO | Chief Technical Officer (CTO) | — | — | — | — | diretor técnico |
-| PCI compliance | — | — | — | — | — | — |
-| corporate templates | Convert any Lucidspark board or template into a corporate template so you can quickly share them with your entire team, provide a central location for official content, and ensure users take advantage of approved and on-brand content. | — | — | — | — | modelos corporativos |
-| Invite others to me | A mode the facilitator can employ to capture all collaborators so they're looking at what the presenter's screen is set to. This can be locked and unlocked as needed. | — | — | — | — | Compartilhar visualização |
-| document | A new asset to be created | — | — | — | — | documento |
-| Sequence diagram | — | — | — | — | — | — |
-| Lucidchart | Product name | — | — | — | — | Lucidchart |
-| Library ER | — | — | — | — | — | — |
-| custom data | — | — | — | — | — | dados personalizados |
-| Guest Collaborators | — | — | — | — | — | Colaboradores Convidados/ externos |
-| Patch Manager | — | — | — | — | — | — |
-| Individual Bundle | Lucidspark + Lucidchart that include all of the Individual plan features | — | — | — | — | Pacote Individual |
-| comments icon | — | — | — | — | — | ícone de comentários |
-| Lucid for Education | Lucid Suite (Lucidspark + Lucidchart) but targeted toward education | — | — | — | — | Lucid para Educação |
-| sort and gather | This is a Lucidspark feature | — | — | — | — | ordenar e reunir |
-| shift key | — | — | — | — | — | — |
-| toolbox | — | — | — | — | — | caixa de ferramentas |
-| 84095 | Office Address - Zip Code | — | — | — | — | 84095 |
-| Google | — | — | — | — | — | Google |
-| foreign key | — | — | — | — | — | chave estrangeira |
-| Developer platform | — | — | — | — | — | Plataforma do desenvolvedor |
-| to toggle off | — | — | — | — | — | desativar |
-| cause-and-effect diagram | — | — | — | — | — | diagrama de causa e efeito |
-| Edit activity | — | — | — | — | — | Editar atividade |
-| Licensed User | — | — | — | — | — | Usuário licensiado |
-| sub-idea | — | — | — | — | — | subideia |
-| joint | — | — | — | — | — | junção |
-| Broadcast | Facilitator types a message that is displayed on the board to all collaborators | — | — | — | — | Transmitir mensagem |
-| locking | — | — | — | — | — | bloqueio |
-| business process | — | — | — | — | — | processo comercial |
-| note panel | Free-form text panel where users can add notes, agendas, or other useful info that is accessed by everyone working on the board. | — | — | — | — | painel de notas |
-| BPMN diagram | — | — | — | — | — | diagrama BPMN |
-| property listing | — | — | — | — | — | — |
-| page layer | — | — | — | — | — | — |
-| dashed line | — | — | — | — | — | linha tracejada |
-| mind map software | — | — | — | — | — | mapa mental online |
-| to scale | — | — | — | — | — | dimensionar |
-| trash | — | — | — | — | — | lixo |
-| decision tree maker | — | — | — | — | — | árvore de decisão online |
-| envolver | — | — | — | — | — | — |
-| zoom options | — | — | — | — | — | opções de zoom |
-| software-as-a-service | — | — | — | — | — | — |
-| account settings page | — | — | — | — | — | página de configurações da conta |
-| Voting session | The abilty facilitators have to conduct voting sessions with their collaborators. These sessions can be synchronous or asynchronous. | — | — | — | — | Sessão de voto |
-| foam board | — | — | — | — | — | — |
-| Lucidchart Sales Solution | — | — | — | — | — | Pacote do Lucidchart para Vendas |
-| query | — | — | — | — | — | consulta |
-| Lucidchart icon | — | — | — | — | — | ícone do Lucidchart |
-| right bar | — | — | — | — | — | — |
-| starting view thumbnail | Lucidspark users can select the view they want collaborators to come into the board seeing. This view is the Starting View Thumbnail. | — | — | — | — | Visão Inicial |
-| Iconfinder | Icon library | — | — | — | — | Iconfinder |
-| flow logs | — | — | — | — | — | — |
-| state machine diagram | — | — | — | — | — | diagrama de máquinas de estado |
-| data refresh | — | — | — | — | — | atualização de dados |
-| Magic Shape | Automatically converts freehand drawing into perfect shapes (circles, diamonds, stickies, squares, triangles, and lines). | — | — | — | — | Forma mágica |
-| Lucid Cards for Jira | Import Jira issues, create new Jira issues, convert sticky notes and shapes into Jira issues, and ensure work is always up to date with two-way bidirectional sync. | — | — | — | — | Fichas da Lucid para o Jira |
-| entity-relationship diagram | — | — | — | — | — | diagrama entidade-relacionamento |
-| linked data | — | — | — | — | — | — |
-| on-premise Confluence instances | — | — | — | — | — | — |
-| dotted line | — | — | — | — | — | linha pontilhada |
-| share | — | — | — | — | — | compartilhar |
-| class diagram | — | — | — | — | — | diagrama de classe |
-| Lucid Community | — | — | — | — | — | Comunidade da Lucid |
-| flowchart maker | — | — | — | — | — | fluxograma online |
-| cryptographic keys | — | — | — | — | — | — |
-| Text Wrapping Padding | — | — | — | — | — | — |
-| South Jordan | Office Address - city | — | — | Yes | — | — |
-| gradient | — | — | — | — | — | gradiente |
-| free mind map | — | — | — | — | — | mapa mental grátis |
-| spaces | — | — | — | — | — | espaços |
-| repository | A database containing information models that, in conjunction with the executable software, manage the database. | — | — | — | — | repositório |
-| billing information | Information, such as name, billing address, and payment method, related to paying for account services. | — | — | — | — | informações de faturamento |
-| Team Spaces | "Team Spaces is a homebase that brings together the knowledge and context teams need to initiate work, coordinate progress, and stay aligned from start to finish." | — | — | — | — | Espaços de Equipe |
-| business model | — | — | — | — | — | modelo comercial |
-| browser history | List of web pages a user has visited, as well as associated metadata such as page title and time of visit, stored locally by web browsers | — | — | — | — | histórico do navegador |
-| scale tool | — | — | — | — | — | ferramenta de escala |
-| AWS Systems Manager Maintenance Windows | — | — | — | — | — | AWS Systems Manager Maintenance Windows |
-| present icon | — | — | — | — | — | ícone de presença |
-| Preview | — | — | — | — | — | Pré-visualização |
-| layers icon | — | — | — | — | — | ícone de camadas |
-| Agile sprint planning | — | — | — | — | — | planejamento sprint Agile |
-| RGB value | — | — | — | — | — | valor RGB |
-| customer journey | — | — | — | — | — | jornada do cliente |
-| bullet point tree | — | — | — | — | — | — |
-| ` | The ` is used by our software to wrap special text of phrases. In some cases phrases will be wrapped by 1 or more ` . Translate wrapped text, but do not remove ` | — | — | — | — | ` |
-| PERT chart | — | — | — | — | — | — |
-| menu bar | Where all the drop down menus are located for account settings (File, Edit, View, Share, etc.) | — | — | — | — | barra de menus |
-| action icon | — | — | — | — | — | ícone de ação |
-| KN | — | — | — | — | — | — |
-| Lucidchart add-in for O365 | — | — | — | — | — | complemento Lucidchart para O365 |
-| stencil | — | — | — | — | — | — |
-| UML | — | — | — | — | — | UML |
-| nbsp Hey, nbsp | — | — | — | — | — | nbsp Olá, |
-| BPMN | — | — | — | — | — | BPMN |
-| customer success | — | — | — | — | — | sucesso dos clientes |
-| Feature Find | A feature in our software where a user can type to search for all available features and tools of the software, without having to find them manually in the menus. | — | — | — | — | Localizador de Recursos |
-| Casillas de activación: s | — | — | — | — | — | — |
-| Team folder | — | — | — | — | — | pasta de equipes |
-| line styling option | — | — | — | — | — | opção de estilo de linha |
-| brainstorming | — | — | — | — | — | brainstorming |
-| Requested License | — | — | — | — | — | Licença solicitada |
-| Three across | This is a setting we use in our CMS to format our web pages. | — | — | — | — | três na horizontal |
-| bulleted list | — | — | — | — | — | lista com marcadores |
-| how to make a mind map | — | — | — | — | — | como fazer um mapa mental |
-| SSO provider | Single Sign On (SSO) | — | — | — | — | fornecedor de SSO |
-| Editor experience | "Editor experience" the experience one has in the editor "Editor" meaning the view when you are editing a Lucidspark board, or Lucidchart diagram. The editor is the product/software aka Lucidspark and Lucidchart. | — | — | — | — | Experiência de uso da ferramenta |
-| stakeholder mapping | — | — | — | — | — | mapeamento de interessados |
-| wrap tight | — | — | — | — | — | — |
-| roadmap | — | — | — | — | — | roadmap |
-| Team admin | — | — | — | — | — | administrador de equipe |
-| page tiling | — | — | — | — | — | — |
-| presentation builder | Panel within the editor that you would open up in order to build or section off the content that you want created into "slides" | — | — | — | — | criador de apresentações |
-| debug | — | — | — | — | — | depurar |
-| communication diagram | — | — | — | — | — | diagrama de comunicação |
-| flowchart template | — | — | — | — | — | modelo de fluxograma |
-| page thumbnail icon | — | — | — | — | — | ícone de miniaturas de página |
-| educational account | — | — | — | — | — | conta educativa |
-| SIPOC diagram | — | — | — | — | — | diagrama SIPOC |
-| editor | A program where a user can create files or makes changes to existing files. | — | — | — | — | editor |
-| template gallery | Modal for templates that appears in the workspace | — | — | — | — | galeria de modelos |
-| Auto-provision | — | — | — | — | — | — |
-| Property Listings | — | — | — | — | — | — |
-| value stream mapping | — | — | — | — | — | mapeamento de fluxos de valor |
-| (Lucidchart) Add-on | — | — | — | — | — | Extensão |
-| magnetizing | — | — | — | — | — | magnetização |
-| Fishbone | — | — | — | — | — | — |
-| Documents page | Accessible via the "Documents" tab, emphasizes location of documents/boards and additional tools for document management (by an end user). | — | — | — | — | Página de documentos |
-| service blueprint | — | — | — | — | — | service blueprint |
-| project management | — | — | — | — | — | gestão de projetos |
-| Confluence instances | — | — | — | — | — | — |
-| Lucidchart basic | — | — | — | — | — | Lucidchart Básico |
-| workspace manager | Modal that allows you to add templates, data, or shapes to your diagram | — | — | — | — | gerenciador de espaço de trabalho |
-| canvas | White space where you create | — | — | — | — | tela |
-| typeface | — | — | — | — | — | tipo de letra |
-| linkList | — | — | — | — | — | lista de links |
-| SAML authentication | — | — | — | — | — | autenticação SAML |
-| sequence diagram | — | — | — | — | — | — |
-| cardinality | — | — | — | — | — | cardinalidade |
-| Object-oriented | — | — | — | — | — | — |
-| from scratch | — | — | — | — | — | do zero |
-| elbow line | — | — | — | — | — | linha de dobra |
-| account settings | Account settings refer to the section of a user's account where they can manage any basic account preferences. | — | — | — | — | configurações da conta |
-| Pending Requests | — | — | — | — | — | Solicitações Pendentes |
-| trombinoscope | — | — | — | — | — | trombinoscópio |
-| account mapping | — | — | — | — | — | mapeamento de contas |
-| database table | — | — | — | — | — | tabela de base de dados |
-| Brand Template | — | — | — | — | — | Modelo de Marca |
-| collaboration tools | Located in the top-right corner and include follow feature, share button, comment, chat, Presentation Builder, video integrations, and Facilitator Tools | — | — | — | — | ferramentas de colaboração |
-| Lucidpress | Name of product | — | — | Yes | — | — |
-| whiteboard | — | — | — | — | — | quadro branco |
-| header row | — | — | — | — | — | linha de cabeçalho |
-| Creator | — | — | — | — | — | — |
-| color swatch | — | — | — | — | — | — |
-| ERD | — | — | — | — | — | DER |
-| hockey ERD | — | — | — | — | — | — |
-| composite structure diagrams | — | — | — | — | — | diagramas de estrutura composta |
-| cursor chat | Cursor chat is kind of like instant messaging that is displayed next to a user's cursor on a shared canvas. | — | — | — | — | chat no cursor |
-| affinity diagram | — | — | — | — | — | diagrama de afinidades |
-| Account Owner | — | — | — | — | — | Proprietário da conta |
-| timer | Allows facilitators and/ or collaborators to set a time limit for a specific activity. | — | — | — | — | temporizador |
-| Visual Activities | — | — | — | — | — | Atividades Visuais |
-| folder manager | — | — | — | — | — | gerenciador de pastas |
-| parse | — | — | — | — | — | — |
-| circuit diagram | — | — | — | — | — | diagrama de circuito |
-| user story mapping | — | — | — | — | — | mapeamento de histórias de usuários |
-| Hi nbsp Hey | — | — | — | — | — | — |
-| network diagram | — | — | — | — | — | diagrama de rede |
-| auto-prompt menu | — | — | — | — | — | menu de solicitação automática |
-| sticky note | — | — | — | — | — | nota adesiva |
-| Confluence | Clonfluence is an Atlassian cloud app | — | — | — | — | Confluence |
-| supply and demand graph | — | — | — | — | — | gráfico de oferta e demanda |
-| tag | A marker you can give to a sticky note, shape or card to categorize your content. | — | — | — | — | marcador |
-| sheet data | — | — | — | — | — | — |
-| subscription | A subscription is a recurring amount of money paid by a user for access to the Lucid software products. | — | — | — | — | assinatura |
-| viewer | — | — | — | — | — | — |
-| page settings menu | Window that appears when you click on page settings in the file menu | — | — | — | — | menu de configurações de página |
-| context panel | Panel on the right side of the workspace that opens based on what is selected on the canvas | — | — | — | — | painel de contexto |
-| universal canvas | — | — | — | — | — | tela universal |
-| border style | — | — | — | — | — | estilo do contorno |
-| Lately @ Lucid | Lately at Lucid is the title of our announcements. It's the newsletter we use to announce new features in our softwares. | — | — | — | — | Novidades na Lucid |
-| team tools | High-engagement team features including: timer, voting, Breakout Boards, and laser pointer. | — | — | — | — | ferramentas de equipe |
-| SHAPE LIBRARY | — | — | — | — | — | — |
-| decision tree template | — | — | — | — | — | exemplo de árvore de decisão |
-| Limited-access Users | — | — | — | — | — | Usuários com acesso limitado |
-| webinar | An online seminar session. | — | — | — | — | webinário |
-| Lucid platform | — | — | — | — | — | Plataforma Lucid |
-| flowchart examples | — | — | — | — | — | exemplos de fluxograma |
-| header cell | — | — | — | — | — | célula de cabeçalho |
-| Start | — | — | — | — | — | Começar |
-| what is a mind map | — | — | — | — | — | o que é um mapa mental |
-| Team Space | "Team Spaces is a homebase that brings together the knowledge and context teams need to initiate work, coordinate progress, and stay aligned from start to finish." | — | — | — | — | Espaço de Equipe |
-| Basic Account | — | — | — | — | — | — |
-| Salesforce schema | — | — | — | — | — | esquema Salesforce |
-| penetration testing | — | — | — | — | — | — |
-| Lucidspark Card | — | — | — | — | — | Ficha do Lucidspark |
-| color wheel | — | — | — | — | — | — |
-| Team member | — | — | — | — | — | Membro da Equipe |
-| Four across | This is a setting we use in our CMS to format the page | — | — | — | — | quatro na horizontal |
-| proprietary identity providers | — | — | — | — | — | — |
-| guest collaborator | Users can edit a document without signing in. They will be granted a guest avatar. | — | — | — | — | colaborador convidado |
-| spreadsheet | — | — | — | — | — | planilha |
-| Partner and community | Lucidspark template category name | — | — | — | — | Parceiro e comunidade |
-| flowchart creator | — | — | — | — | — | — |
-| Return Message | — | — | — | — | — | — |
-| Unified Modeling Language | — | — | — | — | — | Linguagem de Modelação Unificada |
-| pricing page | — | — | — | — | — | — |
-| WBS | — | — | — | — | — | WBS |
-| Auto Layout | — | — | — | — | — | — |
-| Confluence instance | — | — | — | — | — | — |
-| shape icon | — | — | — | — | — | ícone de forma |
-| Gantt chart | — | — | — | — | — | gráfico de Gantt |
-| HEX code | — | — | — | — | — | código hexadecimal |
-| View results | — | — | — | — | — | ver resultados |
-| primary key | — | — | — | — | — | chave principal |
-| Partners and community | Lucidspark template category name | — | — | — | — | Parceiros e comunidade |
-| boards | — | — | — | — | — | murais |
-| Team hub | — | — | — | — | — | Central da Equipe |
-| Microsoft Azure | Microsoft's infrastructure as a service product (comparable to Amazon Web Services). | — | — | — | — | Microsoft Azure |
-| decision tree | — | — | — | — | — | árvore de decisão |
-| data visualisation | — | — | — | — | — | visualização de dados |
-| ER Diagram | — | — | — | — | — | Diagrama ER |
-| Relying Party Trust | — | — | — | — | — | — |
-| hotspot | An area on the document that when clicked preforms a user-programmed action. | — | — | — | — | ponto de interação |
-| dropdown menu | — | — | — | — | — | menu suspenso |
-| model controls | Top left corner of the workspace. This includes the ability to name/ rename a board, search within the board, and toggle the grid on/off. | — | — | — | — | opções do documento |
-| Brand Fonts | — | — | — | — | — | — |
-| EU server | — | — | — | — | — | Servidor UR |
-| DBMS | Database Management System
+| workflow |  | NOUN | — | — |  | fluxo de trabalho |
+| collaboration |  | — | — | — |  |  |
+| business model canvas |  | — | — | — | Masculino: "o Business Model Canvas". | Business Model Canvas |
+| Process Agent |  | NOUN | — | — |  | Agente de Processo |
+| workflow software |  | — | — | — |  |  |
+| workflow program |  | — | — | — |  |  |
+| workflow example |  | — | — | — |  |  |
+| work flow |  | — | — | — |  |  |
+| work breakdown structure |  | NOUN | — | — | Abreviação: EAP | estrutura analítica do projeto |
+| wiring diagram network cable |  | — | — | — |  |  |
+| wiring diagram |  | — | — | — |  |  |
+| wireframing |  | — | — | — |  |  |
+| wireframe tool |  | — | — | — |  |  |
+| wireframe examples |  | — | — | — |  |  |
+| wireframe example |  | — | — | — |  |  |
+| wireframe |  | — | — | — |  | wireframe |
+| whiteboard online |  | — | — | — |  |  |
+| whiteboard |  | — | — | — |  | quadro branco |
+| what is WBS |  | — | — | — |  |  |
+| what is the kanban system |  | — | — | — |  |  |
+| what is swot analysis |  | — | — | — |  |  |
+| what is scrum |  | — | — | — |  |  |
+| what is kanban |  | — | — | — |  |  |
+| what is it collaboration |  | — | — | — |  |  |
+| what is it a workflow |  | — | — | — |  |  |
+| what is collaboration |  | — | — | — |  |  |
+| what is brainstorming |  | — | — | — |  |  |
+| what is an org chart |  | — | — | — |  |  |
+| what is an empathy map |  | — | — | — |  |  |
+| what is agile |  | — | — | — |  |  |
+| what is a network diagram |  | — | — | — |  |  |
+| what is a user story |  | — | — | — |  |  |
+| What is a timeline |  | — | — | — |  |  |
+| what is a swot analysis |  | — | — | — |  |  |
+| what is a moodboard |  | — | — | — |  |  |
+| what is a mockup |  | — | — | — |  |  |
+| what is a flowchart |  | — | — | — |  |  |
+| what is a decision tree |  | — | — | — |  |  |
+| WBS tool |  | — | — | — |  |  |
+| WBS template |  | — | — | — |  |  |
+| WBS software |  | — | — | — |  |  |
+| WBS maker |  | — | — | — |  |  |
+| WBS example |  | — | — | — |  |  |
+| WBS |  | — | — | — |  | WBS |
+| VSM symbols |  | — | — | — |  |  |
+| VSM |  | — | — | — |  |  |
+| Venn diagrams |  | — | — | — |  |  |
+| Venn diagram template |  | — | — | — |  |  |
+| Venn diagram online |  | — | — | — |  |  |
+| Venn diagram maker |  | — | — | — |  |  |
+| Venn diagram generator |  | — | — | — |  |  |
+| Venn diagram examples |  | — | — | — |  |  |
+| Venn diagram example |  | — | — | — |  |  |
+| Venn diagram |  | — | — | — |  | diagrama de Venn |
+| value stream mapping examples |  | — | — | — |  |  |
+| value stream mapping example |  | — | — | — |  |  |
+| value stream mapping |  | — | — | — |  | mapeamento do fluxo de valor |
+| value stream map example |  | — | — | — |  |  |
+| value stream map |  | — | — | — |  |  |
+| user story template |  | — | — | — |  |  |
+| user story mapping |  | — | — | — |  | mapeamento de histórias de usuários |
+| user story map examples |  | — | — | — |  |  |
+| user story is |  | — | — | — |  |  |
+| user story examples |  | — | — | — |  |  |
+| user story example |  | — | — | — |  |  |
+| user story |  | — | — | — |  |  |
+| use case UML |  | — | — | — |  |  |
+| use case diagrams |  | — | — | — |  |  |
+| use case diagram uml |  | — | — | — |  |  |
+| use case diagram site |  | — | — | — |  |  |
+| use case diagram online |  | — | — | — |  |  |
+| use case diagram maker |  | — | — | — |  |  |
+| use case diagram example |  | — | — | — |  |  |
+| use case diagram |  | — | — | — |  | diagrama de casos de uso |
+| UML use case diagram |  | — | — | — |  |  |
+| UML tool |  | — | — | — |  |  |
+| UML template |  | — | — | — |  |  |
+| UML state diagram |  | — | — | — |  |  |
+| UML sequence diagram |  | — | — | — |  |  |
+| UML program |  | — | — | — |  |  |
+| UML online |  | — | — | — |  |  |
+| UML object diagram |  | — | — | — |  |  |
+| UML language |  | — | — | — |  |  |
+| UML interaction diagram |  | — | — | — |  |  |
+| UML examples |  | — | — | — |  |  |
+| UML example |  | — | — | — |  |  |
+| UML diagrams maker |  | — | — | — |  |  |
+| UML diagrams examples |  | — | — | — |  |  |
+| UML diagrams |  | — | — | — |  |  |
+| UML diagram maker |  | — | — | — |  |  |
+| UML diagram |  | — | — | — |  | diagrama UML |
+| UML deployment diagram |  | — | — | — |  |  |
+| UML component diagram example |  | — | — | — |  |  |
+| UML component diagram |  | — | — | — |  |  |
+| UML communication diagram |  | — | — | — |  |  |
+| uml class diagram example |  | — | — | — |  |  |
+| UML class diagram |  | — | — | — |  | diagrama de classes UML |
+| UML activity diagram example |  | — | — | — |  |  |
+| UML activity diagram |  | — | — | — |  |  |
+| UML |  | — | — | — |  |  |
+| timing diagram |  | — | — | — |  |  |
+| timelines online |  | — | — | — |  |  |
+| timeline template |  | — | — | — |  |  |
+| timeline program |  | — | — | — |  |  |
+| timeline online |  | — | — | — |  |  |
+| timeline maker |  | — | — | — |  |  |
+| timeline examples |  | — | — | — |  |  |
+| timeline example |  | — | — | — |  |  |
+| timeline diagram |  | — | — | — |  |  |
+| timeline creator |  | — | — | — |  |  |
+| timeline |  | NOUN | — | — |  |  |
+| swimlane diagram |  | — | — | — |  | fluxograma funcional |
+| swimlane |  | — | — | — |  |  |
+| SWOT analysis template |  | — | — | — |  |  |
+| SWOT analysis examples |  | — | — | — |  |  |
+| SWOT analysis example |  | — | — | — |  |  |
+| SWOT analysis |  | — | — | — |  | análise SWOT |
+| SWOT |  | — | — | — |  |  |
+| system context diagram |  | — | — | — |  |  |
+| state machine diagram |  | — | — | — |  |  |
+| state diagram |  | — | — | — |  |  |
+| stakeholder analysis |  | — | — | — |  |  |
+| Sprite |  | — | — | — |  |  |
+| Spider diagram |  | — | — | — |  |  |
+| software diagram |  | — | — | — |  |  |
+| site map template |  | — | — | — |  | modelo de mapa de site |
+| site map |  | — | — | — |  |  |
+| sitemap template |  | — | — | — |  |  |
+| sitemap |  | — | — | — |  |  |
+| sequence diagram template |  | — | — | — |  |  |
+| sequence diagram online |  | — | — | — |  |  |
+| sequence diagram examples |  | — | — | — |  |  |
+| sequence diagram example |  | — | — | — |  |  |
+| sequence diagram |  | — | — | — |  | diagrama de sequência |
+| scrum template |  | — | — | — |  |  |
+| scrum example |  | — | — | — |  |  |
+| scrum board example |  | — | — | — |  |  |
+| scrum |  | — | — | — |  |  |
+| retrospective |  | — | — | — |  | retrospectiva |
+| raci template |  | — | — | — |  |  |
+| raci model |  | — | — | — |  |  |
+| raci matrix examples |  | — | — | — |  |  |
+| process map example |  | — | — | — |  |  |
+| raci matrix example |  | — | — | — |  |  |
+| raci matrix |  | — | — | — |  |  |
+| raci chart |  | — | — | — |  |  |
+| raci |  | — | — | — |  |  |
+| project WBS |  | — | — | — |  |  |
+| project management WBS |  | — | — | — |  |  |
+| processes map |  | — | — | — |  |  |
+| process mapping |  | — | — | — | Use "mapeamento de processos" sempre que possível, mas se precisar evitar muitas repetições, pode usar as outras traduções: documentação de processos | mapeamento de processos |
+| process map |  | — | — | — |  | mapa de processos |
+| process diagram |  | — | — | — |  |  |
+| PI planning |  | — | — | — |  |  |
+| PESTEL analysis |  | — | — | — |  |  |
+| PESTEL |  | — | — | — |  |  |
+| PEST analysis |  | — | — | — |  |  |
+| pert method example |  | — | — | — |  |  |
+| pert method |  | — | — | — |  |  |
+| pert diagram example |  | — | — | — |  |  |
+| pert diagram |  | — | — | — |  |  |
+| pert chart example |  | — | — | — |  |  |
+| pert chart |  | — | — | — |  |  |
+| pert |  | — | — | — |  |  |
+| org chart template |  | — | — | — |  |  |
+| org chart software |  | — | — | — |  |  |
+| org chart online |  | — | — | — |  |  |
+| org chart maker |  | — | — | — |  |  |
+| org chart generator |  | — | — | — |  |  |
+| org chart examples |  | — | — | — |  |  |
+| org chart example |  | — | — | — |  |  |
+| org chart creator |  | — | — | — |  |  |
+| org chart builder |  | — | — | — |  |  |
+| org chart |  | — | — | — | Use "organograma" always | organograma |
+| online whiteboard |  | — | — | — |  |  |
+| online org chart |  | — | — | — |  |  |
+| online flow chart |  | — | — | — |  |  |
+| online family tree |  | — | — | — |  |  |
+| online brainstorming |  | — | — | — |  |  |
+| office floor plan example |  | — | — | — |  |  |
+| object diagram |  | — | — | — |  |  |
+| network structure diagram |  | — | — | — |  |  |
+| Network diagram software |  | — | — | — |  |  |
+| network diagram example |  | — | — | — |  |  |
+| network diagram |  | — | — | — | Use "diagrama de rede" sempre que possível, mas se precisar evitar muitas repetições, pode usar as outras traduções: diagrama de rede, diagrama de topologia de rede, documentação de rede, estrutura de rede, mapeamento de rede, mapa de rede, infraestrutura de rede | diagrama de rede |
+| network chart |  | — | — | — |  |  |
+| network architecture |  | — | — | — |  |  |
+| NASA WBS |  | — | — | — |  |  |
+| moodboard template |  | — | — | — |  |  |
+| moodboard ideas |  | — | — | — |  |  |
+| moodboard |  | — | — | — |  |  |
+| mockup templates |  | — | — | — |  |  |
+| mockup template |  | — | — | — |  |  |
+| mockup examples |  | — | — | — |  |  |
+| mockup example |  | — | — | — |  |  |
+| mockup creator |  | — | — | — |  |  |
+| mockup |  | — | — | — |  | mockup |
+| mind map template |  | — | — | — |  |  |
+| mind map software |  | — | — | — |  |  |
+| mind map online |  | — | — | — |  |  |
+| mind map maker |  | — | — | — |  |  |
+| mind map examples |  | — | — | — |  |  |
+| mind map example |  | — | — | — |  |  |
+| mind map |  | — | — | — |  | mapa mental |
+| making a mockup |  | — | — | — |  |  |
+| mermaid diagram |  | — | — | — |  |  |
+| kanban system |  | — | — | — |  |  |
+| mermaid chart |  | — | — | — |  |  |
+| make a decision tree online |  | — | — | — |  |  |
+| kanban online |  | — | — | — |  |  |
+| kanban method |  | — | — | — |  |  |
+| kanban is |  | — | — | — |  |  |
+| kanban examples |  | — | — | — |  |  |
+| kanban example |  | — | — | — |  |  |
+| kanban card example |  | — | — | — |  |  |
+| kanban card |  | — | — | — |  |  |
+| kanban board software |  | — | — | — |  |  |
+| kanban board examples |  | — | — | — |  |  |
+| kanban board example |  | — | — | — |  |  |
+| kanban board |  | — | — | — |  |  |
+| kanban |  | — | — | — |  |  |
+| ishikawa diagram template |  | — | — | — |  |  |
+| ishikawa diagram examples |  | — | — | — |  |  |
+| ishikawa diagram example |  | — | — | — |  |  |
+| Ishikawa diagram |  | — | — | — | Priorize "diagrama de Ishikawa", mas se precisar evitar muitas repetições, pode usar "diagrama de causa e feito" ou "diagrama de espinha de peixe". A ordem de preferência dessas palavras é diagrama de Ishikawa>diagrama de causa e efeito>diagrama de espinha de peixe. | diagrama de Ishikawa |
+| ishikawa |  | — | — | — |  |  |
+| interior design mood board |  | — | — | — |  |  |
+| interactive whiteboard |  | — | — | — |  |  |
+| interaction diagrams |  | — | — | — |  |  |
+| interaction diagram |  | — | — | — |  |  |
+| hr workflow template |  | — | — | — |  |  |
+| how to make an ishikawa diagram |  | — | — | — |  |  |
+| how to make a timing diagram |  | — | — | — |  |  |
+| how to make a timeline |  | — | — | — |  |  |
+| how to make a mood board |  | — | — | — |  |  |
+| how to make a flowchart |  | — | — | — |  |  |
+| how to make a family tree |  | — | — | — |  |  |
+| how to create a genogram |  | — | — | — |  |  |
+| how to create a decision tree |  | — | — | — |  |  |
+| how to create a concept map |  | — | — | — |  |  |
+| how to build a family tree |  | — | — | — |  |  |
+| genogram template |  | — | — | — |  |  |
+| genogram examples |  | — | — | — |  |  |
+| genogram example |  | — | — | — |  |  |
+| genogram |  | — | — | — |  |  |
+| gantt chart template |  | — | — | — |  |  |
+| gantt chart software |  | — | — | — |  |  |
+| gantt chart online |  | — | — | — |  |  |
+| gantt chart maker |  | — | — | — |  |  |
+| gantt chart examples |  | — | — | — |  |  |
+| gantt chart example |  | — | — | — |  |  |
+| gantt chart |  | — | — | — |  | gráfico de Gantt |
+| floor plan examples |  | — | — | — |  |  |
+| floor plan example |  | — | — | — |  |  |
+| floor plan |  | — | — | — |  |  |
+| fishbone diagram template |  | — | — | — |  |  |
+| fishbone diagram examples |  | — | — | — |  |  |
+| fishbone diagram example |  | — | — | — |  |  |
+| fishbone diagram |  | — | — | — |  | diagrama de espinha de peixe |
+| family tree template |  | — | — | — |  |  |
+| family tree online |  | — | — | — |  |  |
+| family tree maker |  | — | — | — |  |  |
+| family tree examples |  | — | — | — |  |  |
+| family tree example |  | — | — | — |  |  |
+| family tree |  | — | — | — |  |  |
+| ER diagram tools |  | — | — | — |  |  |
+| ER diagram template |  | — | — | — |  |  |
+| ER diagram software |  | — | — | — |  |  |
+| ER diagram online |  | — | — | — |  |  |
+| ER diagram example |  | — | — | — |  |  |
+| ER diagram |  | — | — | — |  | diagrama ER |
+| entity relationship diagram |  | — | — | — |  |  |
+| empathy maps |  | — | — | — |  |  |
+| empathy map template |  | — | — | — |  |  |
+| empathy map online |  | — | — | — |  |  |
+| empathy map example |  | — | — | — |  |  |
+| empathy map |  | — | — | — |  | mapa de empatia |
+| Electrical installation diagram |  | — | — | — |  |  |
+| electrical diagram |  | — | — | — |  |  |
+| electrical circuit diagram |  | — | — | — |  |  |
+| draw an ERD |  | — | — | — |  |  |
+| draw a floor plan online |  | — | — | — |  |  |
+| draw a floor plan |  | — | — | — |  |  |
+| draw a family tree |  | — | — | — |  |  |
+| draw a diagram online |  | — | — | — |  |  |
+| diagrams |  | — | — | — |  |  |
+| diagram maker |  | — | — | — |  |  |
+| diagrams online free |  | — | — | — |  |  |
+| diagrams maker |  | — | — | — |  |  |
+| diagram program |  | — | — | — |  |  |
+| diagram |  | — | — | — |  | diagrama |
+| diagram example |  | — | — | — |  |  |
+| DFD diagram example |  | — | — | — |  |  |
+| DFD diagram |  | — | — | — |  |  |
+| DFD | Data-flow diagram (DFD) | — | — | — |  | DFD |
+| deployment diagram software |  | — | — | — |  |  |
+| decision trees |  | — | — | — |  |  |
+| deployment diagram |  | — | — | — |  | diagrama de implementação |
+| decision tree example |  | — | — | — |  |  |
+| decision tree template |  | — | — | — |  |  |
+| decision tree software |  | — | — | — |  |  |
+| decision tree online |  | — | — | — |  |  |
+| decision tree maker |  | — | — | — |  |  |
+| decision tree generator |  | — | — | — |  |  |
+| decision tree examples |  | — | — | — |  |  |
+| decision tree diagram |  | — | — | — |  |  |
+| decision tree |  | — | — | — |  | árvore de decisão |
+| data flow diagram |  | — | — | — |  |  |
+| concept map template |  | — | — | — |  |  |
+| concept map online |  | — | — | — |  |  |
+| concept map maker |  | — | — | — |  |  |
+| concept map examples |  | — | — | — |  |  |
+| concept map example |  | — | — | — |  |  |
+| concept map |  | — | — | — |  | mapa conceitual |
+| component diagram example |  | — | — | — |  |  |
+| component diagram |  | — | — | — |  |  |
+| communication diagram |  | — | — | — |  |  |
+| class diagram examples |  | — | — | — |  |  |
+| class diagram example |  | — | — | — |  |  |
+| class diagram |  | — | — | — |  |  |
+| circular diagram |  | — | — | — |  |  |
+| cause and effect diagram |  | — | — | — |  |  |
+| cause and effect |  | — | — | — |  |  |
+| business process model |  | — | — | — |  |  |
+| business model canvas template |  | — | — | — |  |  |
+| business model canvas examples |  | — | — | — |  |  |
+| business model canvas example |  | — | — | — |  |  |
+| business canvas |  | — | — | — |  |  |
+| business architecture of the enterprise |  | — | — | — |  |  |
+| brainstorming tool |  | — | — | — |  |  |
+| brainstorming online |  | — | — | — |  |  |
+| brainstorming method |  | — | — | — |  |  |
+| brainstorming is |  | — | — | — |  |  |
+| brainstorming example |  | — | — | — |  |  |
+| brainstorming |  | — | — | — |  | brainstorming |
+| brainstorm |  | — | — | — | Apesar de prefirir termos traduzidos, sempre que possível, preferimos este termo em inglês mesmo. | brainstorm |
+| BPMN online |  | — | — | — |  |  |
+| BPMN notation |  | — | — | — |  |  |
+| BPMN examples |  | — | — | — |  |  |
+| BPMN diagrams |  | — | — | — |  |  |
+| BPMN diagram online |  | — | — | — |  |  |
+| BPMN diagram example |  | — | — | — |  |  |
+| BPMN diagram | нотация и моделирование рабочих процессов | — | — | — |  | diagrama BPMN |
+| BPMN 2.0 examples |  | — | — | — |  |  |
+| BPMN 2.0 |  | — | — | — |  |  |
+| BPMN |  | — | — | — | Use "BPMN" sempre que possível, mas se precisar evitar muitas repetições, pode usar as outras traduções: Notação de Modelagem de Processos de Negócio, Notação BPMN, Modelagem de processos de negócio | BPMN |
+| block diagrams |  | — | — | — |  |  |
+| block diagram software |  | — | — | — |  |  |
+| block diagram of an algorithm |  | — | — | — |  |  |
+| block diagram of a linear algorithm |  | — | — | — |  |  |
+| block diagram maker |  | — | — | — |  |  |
+| block diagram example |  | — | — | — |  |  |
+| block diagram |  | — | — | — |  |  |
+| block algorithm diagram online |  | — | — | — |  |  |
+| block algorithm diagram example |  | — | — | — |  |  |
+| block algorithm diagram |  | — | — | — |  |  |
+| affinity diagram template |  | — | — | — |  |  |
+| affinity diagram examples |  | — | — | — |  |  |
+| affinity diagram example |  | — | — | — |  |  |
+| affinity diagram |  | — | — | — |  | diagrama de afinidades |
+| activity diagram maker |  | — | — | — |  |  |
+| activity diagram example |  | — | — | — |  |  |
+| activity diagram |  | — | — | — |  | diagrama de atividades |
+| Agile | Agile methodology | — | — | — | Agile methodology: metodologia Ágil. | Ágil |
+| Team | We offer several subscription levels, one of which is Team. Others include Basic, Pro, Professional, Enterprise | NOUN | Yes | — |  | Equipe |
+| smart containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — |  | Caixas Inteligentes |
+| Team Hubs |  | NOUN | — | — |  | Centrais de Equipe |
+| Lucid teams |  | NOUN | — | — |  | equipes da Lucid |
+| All-Access Agile | The name of a video course series our company made about the Agile methodology. | NOUN | — | — | Masculine noun (o curso). For example: "bem-vindos ao Acesso Total Ágil". | Acesso Total Ágil |
+| airfocus | airfocus is a project management software offering from Lucid Software. airfocus is not capitalized and should be written with a lowecase a. | NOUN | — | Yes | Masculine noun: "o airfocus" (porque é o software, o programa). Do not capitalize the first letter of this name, always write airfocus in lowercase. |  |
+| ERDs | Entity relationship diagrams. | NOUN | — | — | DERs = diagramas de entidade-relacionamento | DERs |
+| visual activities icon |  | — | — | — |  | ícone de Atividades Visuais |
+| Lucidspark | Product name | NOUN | — | Yes | Use artigo masculino: "o Lucidspark". | Lucidspark |
+| visuals |  | NOUN | — | — |  | recursos visuais |
+| work acceleration |  | NOUN | — | — |  | aceleração do trabalho |
+| Agility teams | How we call the teams that use our Agility Accelerator software. | NOUN | — | — |  | equipes de Agilidade |
+| blueprint creator | A role that a user may have within our software platform. | NOUN | — | — |  | criador de estratagema |
+| Agility contributor | A role given to a person in our Agility Accelerator extension within our software. | NOUN | — | — |  | colaborador de Agilidade |
+| ownership | Ownership of a document, board, or project within our platform. It means that that person owns that document, and they can decide whether to share it with other people. | — | — | — | Use o termo "posse" quando ownership se referir a ser o dono de um documento, mural ou projeto da plataforma da Lucid. Por exemplo, "Fulano solicitou posse do documento EXEMPLO que você possui." ou "Fulana atribuiu posse do mural EXEMPLO a você." | posse |
+| Google Workspace |  | NOUN | — | Yes |  |  |
+| Lucid license |  | NOUN | — | — |  | licença da Lucid |
+| Sign up free |  | — | — | — | Translate as "Criar uma conta gratuita". | Criar uma conta gratuita |
+| Cloud Accelerator | An add-on that can be purchased in our platform, that adds more features related to cloud computing. | — | — | — | "Extensão Nuvem" é uma extensão complementar que pode ser comprada à parte na nossa plataforma para adicionar funções relacionadas à nuvem (internet). | Extensão Nuvem |
+| Agile Accelerator Manager |  | NOUN | — | — |  | Gerente da Extensão Ágil |
+| Agile manager |  | NOUN | — | — |  | Gerente Ágil |
+| Cloud Accelerator Manager |  | NOUN | — | — |  | Gerente da Extensão Nuvem |
+| cloud manager |  | NOUN | — | — |  | Gerente de Nuvem |
+| Accelerator Manager |  | NOUN | — | — |  | Gerente de Extensões |
+| accelerators | Add-ons that can be purchased in our product. | — | — | — |  | extensões |
+| Airfocus Accelerator | An extension in Lucid's software that allow it to integrate and work with the airfocus software. | NOUN | — | — |  | Extensão Airfocus |
+| Blueprint | A set of templates that can be shared to a set of teams hubs by the add-on manager | NOUN | — | — |  | Estratagema |
+| Agility Accelerator | An add-on that can be purchased in our product. | NOUN | — | — |  | Extensão Ágil |
+| Blueprint admin | A role that a user may have within our software platform. | NOUN | — | — |  | administrador de estratagema |
+| Agility admin | A role given to a person in our Agility Accelerator extension within our software. | NOUN | — | — |  | administrador de Agilidade |
+| Blueprint manager | A role that a user may have within our software platform. | NOUN | — | — |  | gerente de estratagema |
+| Agility manager | A role given to a person in our Agility Accelerator extension within our software. | NOUN | — | — |  | gerente de Agilidade |
+| activity |  | — | — | — |  | atividade |
+| reference key column |  | — | — | — |  |  |
+| template library |  | — | — | — |  | biblioteca de modelos |
+| More menu | Menu to the right of the board title where users can choose to snap to objects and show grid and access keyboard shortcuts | — | — | — |  | opções adicionais |
+| brainstorming and ideation | Lucidspark template category name | — | — | — |  | brainstorming e geração de ideias |
+| finite-state machine | A state machine is a behavior model. It consists of a finite number of states and is therefore also called finite-state machine (FSM). | — | — | — |  | máquina de estados finitos |
+| Team Bundle | Lucidspark + Lucidchart that include all of the Team plan features | — | — | — |  | Pacote de Equipe |
+| custom data field |  | — | — | — |  | campo de dados personalizados |
+| Box | Box is a third party, cloud-based storage offering (i.e., www.box.com) | NOUN | — | — |  | Box |
+| Save changes |  | — | — | — |  | salvar alterações |
+| numbered list |  | — | — | — |  | lista numerada |
+| Top Contributor |  | — | — | — |  | Principal colaborador |
+| sort |  | — | — | — |  | classificar |
+| frames | Frames allow you to add structure to your canvas. Frames hold other elements in them. | — | — | — |  | estruturas |
+| search bar |  | — | — | — |  | barra de pesquisa |
+| sticky note |  | — | — | — |  | nota adesiva |
+| Lucid Visual Collaboration Suite | The official full name for the suite of Lucid products. | — | — | — |  | Lucid Visual Collaboration Suite |
+| to nest |  | — | — | — |  | aninhar |
+| data linking | Easily link your live data to diagrams and flowcharts right in Lucidchart to visualize your information | — | — | — |  | vinculação de dados |
+| Lucidchart | Name of product | NOUN | Yes | Yes | Appropriate capitalization is Lucidchart | Lucidchart |
+| Lucidscale | Name of product | NOUN | Yes | Yes | Appropriate capitalization is Lucidscale | Lucidscale |
+| envolver |  | — | — | — |  |  |
+| zoom options |  | — | — | — |  | opções de zoom |
+| software-as-a-service |  | — | — | — |  |  |
+| account settings page |  | — | — | — |  | página de configurações da conta |
+| Voting session | The abilty facilitators have to conduct voting sessions with their collaborators. These sessions can be synchronous or asynchronous. Along with solicting feedback via voting, facilitators will be able to aggregate the votes and create visualizations showing the results. This will live in the Team Tools. | — | — | — |  | Sessão de voto |
+| auto-format |  | — | — | — |  | autoformatação |
+| to publish |  | — | — | — |  | publicar |
+| on this board |  | — | — | — |  | neste mural |
+| text size |  | — | — | — |  | tamanho de texto |
+| board |  | — | — | — | Use "mural" always | mural |
+| layers |  | — | — | — |  | camadas |
+| snap to grid |  | — | — | — |  | ajustar à grade |
+| collaborator |  | — | — | — |  | colaborador |
+| Undo |  | — | — | — |  | Desfazer |
+| Redo |  | — | — | — |  | Refazer |
+| snap to objects |  | — | — | — |  | ajustar a objetos |
+| show grid |  | — | — | — |  | exibir grade |
+| Lucidchart for Teams |  | NOUN | — | — |  | Lucidchart para Equipes |
+| Requested License |  | — | — | — |  | Licença solicitada |
+| Three across | This is a setting we use in our CMS to format our web pages. | — | — | — |  | três na horizontal |
+| bulleted list |  | — | — | — |  | lista com marcadores |
+| how to make a mind map |  | — | — | — |  | como fazer um mapa mental |
+| SSO provider |  | — | — | — | Single Sign On (SSO) | fornecedor de SSO |
+| Editor experience |  | — | — | — |  | Experiência do Editor |
+| Two across | This is a setting we use in our CMS to format our web pages. | — | — | — |  | dois na horizontal |
+| comment |  | — | — | — |  | comentário |
+| present |  | — | — | — |  | apresentar |
+| Agility Sprint | A group of sprints used in our Agility Accelerator. | NOUN | — | — |  | Sprint de Agilidade |
+| collaborators |  | NOUN | — | — |  | colaboradores |
+| poll |  | — | — | — |  | enquete |
+| full screen |  | — | — | — |  | tela cheia |
+| mind map |  |  | — | — | — | mapa mental |
