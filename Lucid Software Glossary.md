@@ -326,6 +326,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | maker | — | — | — | — | ex: Flowchart maker -> Programa de fluxogramas | programa |
 | Marketplace | Lucid integrations marketplace - a hub for all integrations. | — | — | — | — | Marketplace |
 | master page | — | — | — | — | — | página principal |
+| mood board | — | — | — | — | — | painel semântico |
 | MCD | — | — | — | — | — | MCD |
 | meetings and workshops | Lucidspark template category name | — | — | — | — | reuniões e treinamentos |
 | menu bar | Where all the drop down menus are located for account settings (File, Edit, View, Share, etc.) | — | — | — | — | barra de menus |
