@@ -1,3 +1,9 @@
+# Glossary
+
+_Mojito OpenIA Project Glossary._
+
+## Github repo
+
 | English | Definition | Part of Speech | Source Case Sensitive? | Variations | Mandatory DNT | Portuguese (Brazil) [pt-BR] |
 | --- | --- | --- | --- | --- | --- | --- |
 | advanced voice mode | A richer version of ChatGPT’s voice experience with more natural speech, faster turn-taking, and multimodal understanding. | Proper Noun / Feature Name | No |  |  | Voz avançada |
