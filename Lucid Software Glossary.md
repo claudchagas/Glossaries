@@ -1,4 +1,4 @@
-Here is the completed Markdown table, compiled from all 8 pages of the Portuguese Glossary, with duplicates lacking translations removed, no-input entries excluded, and entries sorted alphabetically A–Z:
+Here is the completed Markdown table, compiled from all 8 pages of the Portuguese Glossary, with duplicates lacking translations removed, no-input entries excluded, and entries sorted alphabetically A-Z:
 
 | English | Definition | Part of Speech | Source Case Sensitive? | Mandatory DNT | Notes | [pt-BR] |
 |---|---|---|---|---|---|---|
