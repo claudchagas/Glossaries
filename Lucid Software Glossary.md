@@ -521,7 +521,6 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | template | — | — | — | — | For Portuguese, use "modelo", not "template" | modelo |
 | template gallery | Modal for templates that appears in the workspace | — | — | — | — | galeria de modelos |
 | template library | — | — | — | — | — | biblioteca de modelos |
-| tenant | The correct PT-BR rendering for "tenant" in a SaaS/cloud architecture context is "tenant" (DNT — widely retained in EN in Brazilian tech product UI) or, if a PT-BR equivalent is required, "organização" or "instância" depending on how the product frames the concept. | — | — | — | The correct PT-BR rendering for "tenant" in a SaaS/cloud architecture context is "tenant" (DNT — widely retained in EN in Brazilian tech product UI) or, if a PT-BR equivalent is required, "organização" or "instância" depending on how the product frames the concept. 1 - "Tenant" — DNT; widely used in enterprise/cloud contexts in PT-BR. 2 - "Organização" — common in Google/Meta Ads localization. 3 - "Conta principal" — contextually accurate but loses the technical precision | tenant |
 | text styling option | — | — | — | — | — | opção de estilo de texto |
 | text overflow | — | — | — | — | — | transbordamento de texto |
 | three-dot menu | — | — | — | — | — | menu de três pontos |
