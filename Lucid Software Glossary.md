@@ -262,6 +262,8 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | Individual Bundle | Lucidspark + Lucidchart that include all of the Individual plan features | — | — | — | — | Pacote Individual |
 | infinite canvas | Boundless working area | — | — | — | — | tela infinita |
 | influence map | — | — | — | — | — | mapa de influência |
+| infotype | — | — | — | — | — | Infotipo |
+| infotypes | — | — | — | — | — | Infotipos |
 | Insights | Data that is aggregated from multiple documents created from blueprints. This data is defined in blueprints by the Agile manager and aggregated in dashboards. The data is created when users interact with a Visual Activity/frame with insights. | — | — | — | Se se referir à função da nossa plataforma, chamada "Insights", traduza para "Resultados". Esse é um painel que resume resultados de votações, pesquisas e outras atividades de equipe na nossa plataforma. Se se referir à palavra "insights" mesmo, pode usar "insights". Essa palavra inglesa já é bem comum no Brasil. | — |
 | integration | — | — | — | — | — | integração |
 | Invite others to me | A mode the facilitator can employ to capture all collaborators so they're looking at what the presenter's screen is set to. This can be locked and unlocked as needed. | — | — | — | — | Compartilhar visualização |
