@@ -70,7 +70,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | business offering | — | — | — | — | — | oferta comercial |
 | business process | — | — | — | — | — | processo comercial |
 | business process management | — | — | — | — | — | gestão de processos comerciais |
-| Business Process Management Initiative | — | — | — | — | — | — |
+| Business Process Management Initiative | — | — | — | — | — | Iniciativa de gestão de processos comerciais |
 | Business Process Modeling Notation | — | — | — | — | — | Notação de Modelagem de Processos de Negócio |
 | business users | — | — | — | — | — | usuários comerciais |
 | button | — | — | — | — | — | botão |
