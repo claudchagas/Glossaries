@@ -798,9 +798,9 @@
 | Theme | — | — | — | — | — | Tema |
 | Think | — | — | — | — | — | Pensar |
 | Think longer | — | — | — | — | — | Pensar por mais tempo |
-| Thinking | — | — | — | — | — | — |
-| Thinking | — | — | — | — | — | Do not translate |
-| Thinking time | — | — | — | — | — | Tempo de raciocínio |
+| Thinking | — | — | — | — | General - Soft | — |
+| Thinking | — | — | — | Yes | Product - Hard | Thinking |
+| Thinking time | — | — | — | — | UI label - Soft | Tempo de raciocínio |
 | Third party cookies | — | — | — | — | — | Cookies de terceiros |
 | This project may include personal information | — | — | — | — | — | Este projeto pode incluir informações pessoais |
 | This Workspace | — | — | — | — | — | Este workspace |
