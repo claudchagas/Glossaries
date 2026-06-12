@@ -276,6 +276,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | k-12 | From kindergarten to grade 12 (last grade of high school) | — | — | — | k-12 significa do primeiro ano do ensino fundamental ao terceiro ano do ensino médio. | ensino fundamental e ensino médio |
 | kanban board | — | — | — | — | — | quadro kanban |
 | k-12 | — | — | — | — | — | ensino fundamental e ensino médio |
+| Large header | — | —| —| —| — | Título 1 |
 | laser pointer | Accessible via Facilitator Tools or Team Tools | — | — | — | — | ponteiro de laser |
 | Lately @ Lucid | Lately at Lucid is the title of our announcements. It's the newsletter we use to announce new features in our softwares. | — | — | — | — | Novidades na Lucid |
 | layer | — | — | — | — | — | camada |
@@ -328,6 +329,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | maker | — | — | — | — | ex: Flowchart maker -> Programa de fluxogramas | programa |
 | Marketplace | Lucid integrations marketplace - a hub for all integrations. | — | — | — | — | Marketplace |
 | master page | — | — | — | — | — | página principal |
+| Medium header | — | —| —| —| — | Título 2 |
 | mood board | — | — | — | — | — | painel semântico |
 | MCD | — | — | — | — | — | MCD |
 | meetings and workshops | Lucidspark template category name | — | — | — | — | reuniões e treinamentos |
@@ -469,6 +471,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | sitemap | — | — | — | — | — | sitemap |
 | Slack | Slack is a proprietary business communication platform developed by American software company Slack Technologies and owned by Salesforce from 2021. | — | — | — | — | Slack |
 | Slack org-wide app functionality | Enterprise organizations with multiple Slack workspaces can deploy Lucid Slack apps across all instances at the same time. | — | — | — | — | Funcionalidade do Slack para toda a organização |
+| Small header | — | —| —| —| — | Título 3 |
 | smart containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — | — | Caixas Inteligentes |
 | smart line | — | — | — | — | — | linha inteligente |
 | SmartArt Tools Design | — | — | — | — | — | Ferramentas de Design SmartArt |
