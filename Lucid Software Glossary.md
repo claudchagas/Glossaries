@@ -38,6 +38,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | auto-prompt menu | — | — | — | — | — | menu de solicitação automática |
 | AWS Elastic Load Balancers | Elastic Load Balancing (ELB) is a load-balancing service for Amazon Web Services (AWS) deployments | — | — | — | — | AWS Elastic Load Balancers |
 | AWS Systems Manager Maintenance Windows | — | — | — | — | — | AWS Systems Manager Maintenance Windows |
+| Bearer token | — | —| —| —| — | Token de portador |
 | billing and payment information | Information, such as name, billing address, and payment method, related to paying for account services. | — | — | — | — | informações de faturamento e pagamento |
 | billing information | Information, such as name, billing address, and payment method, related to paying for account services. | — | — | — | — | informações de faturamento |
 | billing overview | Section of a user's account where they can see all billing-related information at a glance | — | — | — | — | visão geral de faturamento |
