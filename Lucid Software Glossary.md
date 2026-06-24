@@ -591,7 +591,8 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | webinar | An online seminar session. | — | — | — | Use artigo masculino: o webinário, um webinário | webinário |
 | what is a flowchart | — | — | — | — | — | o que é um fluxograma |
 | what is a mind map | — | — | — | — | — | o que é um mapa mental |
-| whiteboard | — | — | — | — | — | quadro branco |
+| whiteboard | — | — | — | — | lousa digital | quadro branco |
+| whiteboarding | — | — | — | — | — | quadro branco |
 | wireframe | — | — | — | — | — | wireframe |
 | work acceleration | — | — | — | — | — | aceleração do trabalho |
 | work breakdown structure | — | — | — | — | Abreviação: EAP | estrutura analítica do projeto |
