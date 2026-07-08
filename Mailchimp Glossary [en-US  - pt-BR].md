@@ -92,7 +92,7 @@
 | Brand Kit | | — | — | — | | Kit da Marca |
 | brand personality | | — | — | — | | personalidade da marca |
 | branding | | — | — | — | | construção de marca |
-| breadcrumb navigation | | — | — | Yes | | DNT |
+| breadcrumb navigation | | — | — | Yes | | breadcrumb navigation |
 | brute force protection | | — | — | — | | proteção contra ataques usando força bruta |
 | build a segment | | — | — | — | | criar um segmento |
 | Builder | | — | — | — | | Criador |
@@ -159,13 +159,13 @@
 | conversion rate | | — | — | — | | taxa de conversão |
 | cookie | | — | — | — | | cookie |
 | Copyright and Trademark Policy | | — | — | — | | Política de Copyright e de Marca Registrada |
-| cost per lead | | — | — | Yes | | DNT |
+| cost per lead | | — | — | Yes | | cost per lead |
 | court order | | — | — | — | | ordem judicial |
-| crawl budget | | — | — | Yes | | DNT |
+| crawl budget | | — | — | Yes | | crawl budget |
 | Create Campaign | | — | — | — | | Criar campanha |
 | Create List | | — | — | — | | Criar lista |
 | Create Template | | — | — | — | | Criar modelo |
-| Creative Assistant | | — | — | Yes | | DNT |
+| Creative Assistant | | — | — | Yes | | Creative Assistant |
 | Credits | | — | — | — | | Créditos |
 | CSS Inliner | | — | — | — | | CSS Inliner |
 | CSV | Abbreviation for comma-separated values, a type of spreadsheet file used within the Mailchimp app | — | — | — | | CSV |
@@ -212,7 +212,7 @@
 | e-commerce | | — | — | — | | e-commerce |
 | Edit | | — | — | — | | Editar |
 | EepURL | | — | — | — | | EepURL |
-| elevator pitch | | — | — | Yes | | DNT |
+| elevator pitch | | — | — | Yes | | elevator pitch |
 | email | | — | — | — | | e-mail |
 | email address | | — | — | — | | endereço de e-mail |
 | Email Beamer | | — | — | — | | Email Beamer |
@@ -275,7 +275,7 @@
 | Import | | — | — | — | | Importar |
 | Import subscribers | | — | — | — | | Importar inscritos |
 | inactive subscriber | | — | — | — | | inscrito inativo |
-| inbound marketing | | — | — | Yes | | DNT |
+| inbound marketing | | — | — | Yes | | inbound marketing |
 | Inbox | | — | — | — | | Caixa de entrada |
 | Inbox Preview | | — | — | — | | Inbox Preview |
 | industry | | — | — | — | | setor |
@@ -290,14 +290,14 @@
 | label | | — | — | — | | rótulo |
 | landing page | | — | — | — | | página de destino |
 | Landing Pages | | — | — | — | | Páginas de destino |
-| lead magnet | | — | — | Yes | | DNT |
+| lead magnet | | — | — | Yes | | lead magnet |
 | legacy free plan | | — | — | — | | plano gratuito antigo |
 | legacy plan | | — | — | — | | plano antigo |
 | LemonStand | | — | — | — | | LemonStand |
 | Link Checker | | — | — | — | | Link Checker |
 | List | | — | — | — | | Lista |
 | List Average | | — | — | — | | Média da lista |
-| List fields and *|MERGE|* tags | | — | — | — | | Campos de lista e etiquetas *|MERGE|* |
+| List fields and MERGE tags | | — | — | — | | Campos de lista e etiquetas MERGE |
 | List Growth | | — | — | — | | Crescimento da lista |
 | List ID | | — | — | — | | ID da lista |
 | list management | | — | — | — | | gestão de lista |
@@ -324,8 +324,8 @@
 | Merge | | — | — | — | | Mesclagem |
 | Merge Field | | — | — | — | | Campo de mesclagem |
 | Merge Tag | | — | — | — | | Etiqueta de mesclagem |
-| Meta | | — | — | Yes | | DNT |
-| middle-of-funnel | | — | — | Yes | | DNT |
+| Meta | | — | — | Yes | | Meta |
+| middle-of-funnel | | — | — | Yes | | middle-of-funnel |
 | Miva Merchant | | — | — | — | | Miva Merchant |
 | mobile device | | — | — | — | | dispositivo móvel |
 | Mobile Styles | | — | — | — | | estilos em versão móvel |
@@ -350,7 +350,7 @@
 | OpenTable | Company Name | — | — | — | | OpenTable |
 | opt-in | | — | — | — | | confirmação |
 | order notification | | — | — | — | | notificação de pedido |
-| outbound marketing | | — | — | Yes | | DNT |
+| outbound marketing | | — | — | Yes | | outbound marketing |
 | owner | | — | — | — | | Proprietário |
 | owner of the video | | — | — | — | | proprietário do vídeo |
 | package | | — | — | — | | pacote |
@@ -447,7 +447,7 @@
 | Signup Source | | — | — | — | | Origem da inscrição |
 | single opt-in | | — | — | — | | confirmação única |
 | slider | | — | — | — | | controle deslizante |
-| SMS | | — | — | Yes | | DNT |
+| SMS | | — | — | Yes | | SMS |
 | SMS Acquisition Time | | — | — | — | | hora de aquisição de SMS |
 | SMS credits | | — | — | — | | créditos de SMS |
 | SMS marketing | | — | — | — | | marketing por SMS |
@@ -456,7 +456,7 @@
 | Social Cards | | — | — | — | | Social Cards |
 | Social Follow | | — | — | — | | Social Follow |
 | social media | | — | — | — | | redes sociais |
-| social media marketing | | — | — | Yes | | DNT |
+| social media marketing | | — | — | Yes | | social media marketing |
 | Social Profiles | | — | — | — | | Social Profiles |
 | Social Share | | — | — | — | | Social Share |
 | Social Stats | | — | — | — | | Estatísticas de redes sociais |
