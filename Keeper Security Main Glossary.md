@@ -130,6 +130,7 @@ Here is the complete Markdown table built from all 360 entries in the **Keeper S
 | Keeper Family | https://www.keepersecurity.com/family-plan.html Keeper Family is a subscription plan for Keeper that allows family members (5) to have their own password vault to store, protect and securely share their passwords and passkeys. | — | — | Yes | Do not translate | — |
 | Keeper Family Plan | https://www.keepersecurity.com/keeperchat.html KeeperChat Family Plan is Keeper's Family messaging platform | — | — | — | — | — | — |
 | Keeper Password Manager | — | — | — | — | — | Keeper Gerenciador de Senhas |
+| KeeperDB Proxy | — | — | — | — | — | KeeperDB Proxy |
 | least privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | least-privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | PAM | — | — | — | — | — | PAM |
