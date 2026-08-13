@@ -368,6 +368,7 @@
 | localization as a self-service for SAP S/4HANA Cloud | — | — | — | — | — | localização como serviço próprio para SAP S/4HANA Cloud |
 | Localization Extensibility Agent | — | — | — | — | — | Agente de extensibilidade de localização |
 | logistics management | The coordination of transportation, warehousing, and distribution to deliver goods from origin to customer efficiently and cost-effectively. | — | — | — | — | gestão de logística |
+| long-tail spend | — | — | — | — | — | gastos periféricos |
 | Low code | — | — | — | — | — | Low-code |
 | low-code / no-code | Development approaches enabling application creation with minimal or no hand-coding, using visual builders and pre-built components. SAP Build is SAP's low-code/no-code platform. | — | — | — | — | low-code / no-code |
 | loyalty management | The strategy and technology for designing, managing, and optimizing customer loyalty programs — points, rewards, tiers — to increase retention and lifetime value. | — | — | — | — | gestão de fidelização |
@@ -386,6 +387,7 @@
 | master data management (MDM) | The discipline of creating and maintaining a single, authoritative set of core business data — customers, suppliers, products, cost centers — across all enterprise systems. | — | — | — | — | gerenciamento de dados mestre (MDM) |
 | Master production planning (MPP) | — | — | — | — | — | Planejamento mestre de produção (MPP) |
 | Material Requirements Planning (MRP) | — | — | — | — | — | Planejamento de necessidades de materiais (MRP) |
+| matching invoices | — | — | — | — | — | conciliação de fatura |
 | maturity assessment for SAP BTP | — | — | — | — | — | avaliação de maturidade do SAP BTP |
 | maverick spend | Uncontrolled or off-contract purchasing that bypasses approved procurement channels, leading to higher costs and compliance risks. Reduced through guided buying and catalog management. | — | — | — | — | despesas não autorizadas |
 | MDM (Master Data Management) | — | — | — | — | — | MDM (gestão de dados mestre) |
