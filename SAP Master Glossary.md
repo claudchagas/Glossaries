@@ -855,6 +855,7 @@
 | workforce planning | The strategic process of analyzing current workforce capabilities and forecasting future talent needs to meet business goals. | — | — | — | — | planejamento da força de trabalho |
 | Working capital | — | — | — | — | — | Capital de giro |
 | working capital management | Optimizing the balance between current assets (receivables, inventory) and current liabilities (payables) to maximize liquidity and operational efficiency. | — | — | — | — | gestão de capital de giro |
+| Workforce Upskilling Assistant | SAP AI assistant that delivers personalized, contextual learning experiences — including microlearning, just-in-time training, and skills reinforcement — using AI agents embedded in enterprise workflows. Distinct from the Career and Talent Development Assistant, which focuses on broader career-path development. | Proper noun (product name) | Yes — initial caps required | No | Not on SAP DNT/trademark list. Translate consistently as "Assistente de capacitação da força de trabalho". "Capacitação" preferred over "qualificação" (too formal/credential-focused) and "desenvolvimento de habilidades" (too descriptive/lengthy). Confirmed in STRING 1217. | Assistente de capacitação da força de trabalho |
 | Workspace Administration Agent | — | — | — | — | — | Agente de administração da área de trabalho |
 | xP&A | — | — | — | — | — | xP&A |
 | zero trust | A security model that requires continuous verification of every user, device, and request — assuming no implicit trust even within the corporate network. | — | — | — | — | confiança zero |
