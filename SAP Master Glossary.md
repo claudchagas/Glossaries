@@ -154,7 +154,6 @@
 | Dashboard | — | — | — | — | — | Dashboard |
 | Dashboard Analyzer Agent | — | — | — | — | — | Agente analisador de painéis |
 | data driven | — | — | — | — | — | baseada em dados |
-| data driven | — | — | — | — | — | guiado pelos dados |
 | data exchange | — | — | — | — | — | intercâmbio de dados |
 | data fabric | — | — | — | — | — | infraestrutura de dados |
 | data governance | The framework of policies, roles, processes, and standards that ensure data is accurate, consistent, secure, and compliant across an organization. | — | — | — | — | governança de dados |
