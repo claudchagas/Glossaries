@@ -134,6 +134,7 @@ Here is the complete Markdown table built from all 360 entries in the **Keeper S
 | least privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | least-privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | master password | — | — | — | — | — | senha-mestra |
+|  Notification Center | A feature for KeeperPAM - a central area where a user will receive alerts for certain actions. | — | — | — | — | Central de Avisos |
 | PAM | — | — | — | — | — | PAM |
 | passphrase | — | — | — | — | — | frase secreta |
 | Role-based access control | Role-Based Access Control (RBAC), also known as role-based security, is an access control model where a user’s role within an organization determines which network resources they may access. | — | — | — | — | Controle de Acesso Baseado em Funções |
