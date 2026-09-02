@@ -66,7 +66,8 @@
 | Bring out your best. | — | — | — | — | — | Mostre o seu melhor. |
 | Budget | — | — | — | — | — | Orçamento |
 | Building an intelligent integration core | — | — | — | — | — | Desenvolvendo um núcleo de integração inteligente |
-| business | — | Noun | — | — | — | negócios |
+| business | Entity (company): empresa(s); domain/activity: negócios; modifier: de negócios.
+Locked: across the business → em toda a empresa; for businesses → para empresas (no article). No single default: choose empresa (entity) or negócios (domain) per context. | Noun | — | — | — | negócios |
 | business agility | The capacity of an organization to rapidly adapt its strategy, operations, and resources in response to market changes, customer demands, or competitive threats. | — | — | — | — | agilidade nos negócios |
 | business outcome | A measurable, strategic result that technology investments are designed to achieve — such as increased revenue, reduced cost, improved customer satisfaction, or enhanced compliance. | — | — | — | — | resultado de negócios |
 | business process transformation | — | — | — | — | — | transformação de processos de negócios |
