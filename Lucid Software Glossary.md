@@ -447,6 +447,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | security settings | — | — | — | — | — | configurações de segurança |
 | See and build the future | A common slogan that our brand uses. | — | — | — | — | Veja e crie o futuro |
 | selection voting | Rather than including all board content in a voting session, users can now select which portions of the board they would like participants to vote on. | — | — | — | — | Votação Seletiva |
+| Sentence case | — | — | — | — | — | Caixa de frase |
 | sequence diagram UML | — | — | — | — | — | diagrama de sequência UML |
 | service blueprint | — | — | — | — | Apesar de preferir termos traduzidos, sempre que possível, preferimos este termo em inglês mesmo. Priorizar service blueprint e usar blueprint de serviços só às vezes. | service blueprint |
 | shape | — | — | — | — | — | forma |
