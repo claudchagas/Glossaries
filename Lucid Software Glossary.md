@@ -116,7 +116,8 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | contextual panel icon | — | — | — | — | — | ícone de painel de contexto |
 | Collaborative AI | — | — | — | — | — | IA Colaborativa |
 | corporate templates | Convert any Lucidspark board or template into a corporate template so you can quickly share them with your entire team, provide a central location for official content, and ensure users take advantage of approved and on-brand content. | — | — | — | — | modelos corporativos |
-| creator | — | — | — | — | ex: Flowchart creator -> Programa de fluxogramas | programa |
+| Creator | — | — | — | — | ex: Flowchart creator -> Programa de fluxogramas | programa |
+| Creator license | — | — | — | — | — | licença de Criador |
 | cross-functional | — | — | — | — | — | multifuncional |
 | cryptographic key | — | — | — | — | — | chave criptográfica |
 | CTO | Chief Technical Officer (CTO) | — | — | — | — | diretor técnico |
@@ -193,6 +194,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | EU server | — | — | — | — | — | Servidor UR |
 | expand | — | — | — | — | — | expandir |
 | Explorer | — | — | — | — | — | Explorador |
+| Explorer license | — | — | — | — | — | licença de Explorador |
 | facilitate | — | — | — | — | Se for "facilitate meetings", traduza para "conduzir reuniões". | conduzir |
 | Facilitator Controls | Facilitators can limit participants from starting a timer, starting a voting session, locking/unlocking objects, and hiding/unhiding objects on the board. | — | — | — | — | controles de facilitadores |
 | facilitator tools | Enable by clicking "Make me a facilitator" in Collaborator Tools, which opens a new toolkit that includes the laser pointer, Take the lead, Broadcast - must have edit and share access | — | — | — | — | Ferramentas para Facilitadores |
