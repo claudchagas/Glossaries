@@ -557,6 +557,7 @@
 | SAP Certification online exam | — | — | — | — | — | Exame online de Certificação SAP |
 | SAP Change Impact Analysis by Tricentis | — | — | — | — | — | SAP Change Impact Analysis da Tricentis |
 | SAP Channel Program Management by Vistex | — | — | — | — | — | SAP Channel Program Management da Vistex |
+| SAP Cloud ERP Private | — | — | — | — | — | SAP Cloud ERP Private |
 | SAP Cloud Portal service | — | — | — | — | — | Serviço SAP Cloud Portal |
 | SAP Commerce Cloud | — | — | — | — | — | SAP Commerce Cloud |
 | SAP Commerce Cloud, cloud ERP edition | — | — | — | — | — | SAP Commerce Cloud, edição Cloud ERP |
