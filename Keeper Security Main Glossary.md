@@ -138,6 +138,7 @@ Here is the complete Markdown table built from all 360 entries in the **Keeper S
 |  Notification Center | A feature for KeeperPAM - a central area where a user will receive alerts for certain actions. | — | — | — | — | Central de Avisos |
 | PAM | — | — | — | — | — | PAM |
 | passphrase | — | — | — | — | — | frase secreta |
+| passwordless authentication | — | — | — | — | — | autenticação sem senha |
 | password rotation | — | — | — | — | — | rotação de senhas |
 | Role-based access control | Role-Based Access Control (RBAC), also known as role-based security, is an access control model where a user’s role within an organization determines which network resources they may access. | — | — | — | — | Controle de Acesso Baseado em Funções |
 | Record Types | A Keeper Record Type is a structured template that can contain any type of information such as logins, payment cards, bank accounts, and many more. There are several out-of-the-box record types available, and Admins can create custom types that fit the needs of your organization. Custom record types can be created for all users, or users within specific roles. https://docs.keeper.io/en/enterprise-guide/record-types The link above shows different types of records. | — | — | — | — | Tipos de registros |
