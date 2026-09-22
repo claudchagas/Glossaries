@@ -796,7 +796,7 @@ _Mojito OpenIA Project Glossary._
 | Search memory | — | — | — | — | — | — | Pesquisar na memória |
 | Search Results | — | — | — | — | — | — | Resultados da pesquisa |
 | SearchGPT | A name used for OpenAI’s search-focused experience/feature set (commonly: AI-assisted web/search). | Proper Noun / Feature Name | Yes | — | — | — | SearchGPT |
-| seat | — | — | — | — | — | — | licença |
+| seat | — | — | — | — | — | — | vaga de usuário |
 | Secure sign in with ChatGPT | — | — | — | — | — | — | Login seguro com o ChatGPT |
 | Security | — | — | — | — | — | — | Segurança |
 | Security key | — | — | — | — | — | — | Chave de segurança |
