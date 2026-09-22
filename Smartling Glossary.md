@@ -84,7 +84,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | containers | — | —| —| —| — | caixas |
 | quick stickies | — | —| —| —| — | notas rápidas |
 | auto-nudging | — | —| —| —| — | ajuste automático |
-| seat | — | —| —| —| — | licença |
+| seat | — | —| —| —| — | vaga de usuário |
 | sticky notes | — | —| —| —| — | notas adesivas |
 | Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
 | expiration | — | —| —| —| vencimento | expiração |
