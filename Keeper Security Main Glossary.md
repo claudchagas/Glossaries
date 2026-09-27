@@ -145,4 +145,5 @@ Here is the complete Markdown table built from all 360 entries in the **Keeper S
 | secrets sprawl | Secrets sprawl refers to the uncontrolled and unmanaged proliferation of sensitive information like API keys, passwords, and certificates, often scattered across various systems and locations. Keeper Security's Secrets Manager (KSM) is a platform designed to combat this problem by providing a centralized and secure way to manage these secrets. KSM helps organizations eliminate hard-coded credentials, consolidate secrets in a unified platform, and automate credential rotation, thereby reducing the risk associated with secrets sprawl. | — | — | — | — | dispersão de segredos |
 | time-limited access | — | — | — | — | — | acesso com tempo limitado |
 | allowlisting | — | — | — | — | — | listas de permissões |
-| Zero-Trust Network Access | — | — | — | — | — | Acesso à rede zero-trust |
+| Zero Trust Network Access | Acesso à rede zero-trust | Networking/security term; acronym retained |
+| Zero Trust Network Access (ZTNA) | Acesso à rede zero-trust (ZTNA) | Networking/security term; acronym retained |
