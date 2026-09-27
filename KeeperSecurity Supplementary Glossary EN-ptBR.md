@@ -213,7 +213,8 @@ Session locks added in Sep 2026 review session are marked **[SL]**.
 | zero standing privilege (ZSP) | privilégio permanente zero (ZSP) | **[SL]** PAM principle; ZSP acronym retained — **not** 'privilégio de posição zero', 'privilégio de permanência zero', or 'privilégio de status zero' |
 | zero trust / zero-trust | confiança zero | Security model — lowercase in running text; 'segurança de confiança zero' for the compound |
 | zero-knowledge security | segurança de conhecimento zero | Keeper security principle |
-| Zero Trust Network Access (ZTNA) | Acesso à rede de confiança zero (ZTNA) | Networking/security term; acronym retained |
+| Zero Trust Network Access (ZTNA) | Acesso à rede zero-trust (ZTNA) | Networking/security term; acronym retained |
+| Zero Trust Network Access | Acesso à rede zero-trust | Networking/security term; acronym retained |
 
 ---
 
