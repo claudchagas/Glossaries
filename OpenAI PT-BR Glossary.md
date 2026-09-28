@@ -50,6 +50,7 @@ _Mojito OpenIA Project Glossary._
 | Ads controls | — | — | — | — | — | — | Controles de anúncios |
 | Ads data | — | — | — | — | — | — | Dados de anúncios |
 | Ads interests | — | — | — | — | — | — | Interesses para anúncios |
+| Ads Manager | — | — | — | — | — | Gerenciador de Anúncios |
 | Ads personalization | — | — | — | — | — | — | Personalização de anúncios |
 | Adult themes | — | — | — | — | — | — | Temas adultos |
 | Advanced | — | — | — | — | — | — | Avançado |
