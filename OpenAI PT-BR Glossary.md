@@ -641,6 +641,7 @@ _Mojito OpenIA Project Glossary._
 | Pause Audio | — | — | — | — | — | — | Pausar áudio |
 | Paused | — | — | — | — | — | — | Pausado |
 | Pending | — | — | — | — | — | — | Pendente |
+| Pet | A Pet is an optional, customizable animated digital companion that helps users follow work across chats. It can show Running, Needs input, Ready, or Blocked and can be selected or created by users. It changes the appearance of the experience, not how ChatGPT completes tasks; it is companion/avatar-like, not necessarily a literal animal. | — | — | — | — | — | Pet |
 | People | — | — | — | — | — | — | Pessoas |
 | People I've Messaged | — | — | — | — | — | — | Pessoas com quem troquei mensagens |
 | Personal | — | — | — | — | — | — | Pessoal |
