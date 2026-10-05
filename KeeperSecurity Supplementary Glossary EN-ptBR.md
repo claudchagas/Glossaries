@@ -183,7 +183,7 @@ Session locks added in Sep 2026 review session are marked **[SL]**.
 |---|---|---|
 | secrets management | gerenciamento de segredos | Locked glossary term |
 | Security Information and Event Management (SIEM) | Gerenciamento de Informações e Eventos de Segurança (SIEM) | Standard IT term; SIEM acronym retained; masculine article: 'o SIEM' |
-| sensitive data | dados confidenciais | **[SL]** Keeper Security client override — **not** 'dados sensíveis' |
+| sensitive data | dados sensíveis | **[SL]** Keeper Security client override — **not** 'confidenciais' |
 | sensitive information | informações confidenciais | **[SL]** Keeper Security client override — **not** 'informações sensíveis' |
 | session management | gerenciamento de sessões | PAM/IT term |
 | shadow AI | IA sombra | **[SL]** Locked glossary term — **not** 'Shadow AI' untranslated |
