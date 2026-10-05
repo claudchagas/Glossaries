@@ -50,7 +50,7 @@ _Mojito OpenIA Project Glossary._
 | Ads controls | — | — | — | — | — | — | Controles de anúncios |
 | Ads data | — | — | — | — | — | — | Dados de anúncios |
 | Ads interests | — | — | — | — | — | — | Interesses para anúncios |
-| Ads Manager | — | — | — | — | — | Gerenciador de Anúncios |
+| Ads Manager | — | — | — | — | — | Plataforma de Anúncios |
 | Ads personalization | — | — | — | — | — | — | Personalização de anúncios |
 | Adult themes | — | — | — | — | — | — | Temas adultos |
 | Advanced | — | — | — | — | — | — | Avançado |
@@ -148,6 +148,9 @@ _Mojito OpenIA Project Glossary._
 | Chat Training | — | — | — | — | — | — | Treinamento de chats |
 | ChatGPT | OpenAI’s conversational AI product that lets users interact with GPT models via a chat interface. | Proper Noun / Product Name | Yes | — | True | — | ChatGPT |
 | ChatGPT Account | — | — | — | — | — | — | Conta do ChatGPT |
+| ChatGPT Ads | — | — | Yes | — | — | product name | ChatGPT Anúncios |
+| ChatGPT ads | — | — | Yes | — | — | descriptive usage | anúncios no ChatGPT |
+| ChatGPT Ads Manager | — | — | — | — | — | — | Plataforma de Anúncios do ChatGPT |
 | ChatGPT app | — | — | — | — | — | — | — |
 | ChatGPT Business | A ChatGPT offering aimed at businesses that need stronger security, privacy, and management controls. | Proper Noun / Product Name | Yes | — | — | — | ChatGPT Business |
 | ChatGPT Desktop | — | — | — | — | — | — | ChatGPT Desktop |
