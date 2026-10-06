@@ -854,7 +854,7 @@ _Mojito OpenIA Project Glossary._
 | Signed at | — | — | — | — | — | — | Assinado em |
 | Site search engines | — | — | — | — | — | — | Mecanismos de pesquisa de sites |
 | Site settings | — | — | — | — | — | — | Configurações do site |
-| Skill | — | — | — | — | — | — | Conversas em segundo plano |
+| Skill | — | — | — | — | — | — | Habilidade |
 | Skills | — | — | — | — | — | — | Habilidades |
 | slug | A slug is a short, human-readable identifier used in URLs. It helps improve readability and SEO. | Noun | No | — | — | — | slug |
 | SMS | — | — | — | — | — | — | SMS |
