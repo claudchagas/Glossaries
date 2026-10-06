@@ -5,6 +5,7 @@
 | booking number | — | — | — | — | — | número de reserva |
 | Booking number by SMS | — | — | — | — | — | Referência de reserva por mensagem de texto |
 | bundle | — | — | — | — | — | oferta combinada |
+| Cabin Bag | — | — | — | DNT | — | — |
 | Cancellation Protection | — | — | — | — | Product Name | Proteção contra cancelamento |
 | Checked baggage | — | — | — | — | — | Bagagem despachada |
 | departure | — | — | — | — | — | partida |
@@ -50,6 +51,7 @@
 | overnight stay | — | — | — | — | — | pernoita |
 | oversize | — | — | — | — | Let's keep "Oversize" only. | tamanho excessivo |
 | personal item | — | — | — | — | — | item pessoal |
+| Price Lock | — | — | — | DNT | — | — |
 | Platinum | — | — | — | — | — | Platinum |
 | Platinum Support Package | — | — | — | — | Product name (Platinum only in UK En) see product name list | Pacote de ajuda Platinum |
 | Premium Economy | — | — | — | — | — | Econômica Premium |
