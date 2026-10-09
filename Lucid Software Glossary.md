@@ -362,7 +362,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | one-sided arrow | — | — | — | — | — | seta de um sentido |
 | one-time data import | — | — | — | — | — | importação de dados única |
 | online | — | — | — | — | — | online |
-| Onboarding | Period where a new employee is learning the procedures of a company though trainings and tutorials. Or when a new user is learning how to use a software product through trainings and tutorials. | — | — | — | — | ambientação |
+| Onboarding | Period where a new employee is learning the procedures of a company though trainings and tutorials. Or when a new user is learning how to use a software product through trainings and tutorials. | — | — | — | integração | ambientação |
 | open text area | — | — | — | — | — | área de texto livre |
 | options bar | Bar at the top with controls for Views, Group Hierarchy, Filters, CF | — | — | — | — | barra de opções |
 | org chart | — | — | — | — | — | organograma |
@@ -476,7 +476,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | Slack | Slack is a proprietary business communication platform developed by American software company Slack Technologies and owned by Salesforce from 2021. | — | — | — | — | Slack |
 | Slack org-wide app functionality | Enterprise organizations with multiple Slack workspaces can deploy Lucid Slack apps across all instances at the same time. | — | — | — | — | Funcionalidade do Slack para toda a organização |
 | Small header | — | —| —| —| — | Título 3 |
-| smart containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — | — | Caixas Inteligentes |
+| smart containers | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | — | — | — | — | contêiners inteligentes |
 | smart line | — | — | — | — | — | linha inteligente |
 | SmartArt Tools Design | — | — | — | — | — | Ferramentas de Design SmartArt |
 | software | — | — | — | — | ex: Flowchart software -> Programa de fluxogramas | programa |
