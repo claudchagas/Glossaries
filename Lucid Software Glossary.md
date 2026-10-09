@@ -75,6 +75,7 @@ Here is the completed Markdown table, compiled from all 8 pages of the Portugues
 | Business Process Modeling Notation | — | — | — | — | — | Notação de Modelagem de Processos de Negócio |
 | business users | — | — | — | — | — | usuários comerciais |
 | button | — | — | — | — | — | botão |
+| container | Containers that are responsive to shapes, sticky notes, and cards. These containers allow users to better group and organize ideas. Manual and smart capabilities | —| —| —| — | contêiner |
 | call others to me | — | — | — | — | — | compartilhamento de vizualização |
 | call others to me | — | — | — | — | — | compartilhar minha vizualização |
 | canvas | White space where you create | — | — | — | — | tela |
