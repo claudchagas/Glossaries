@@ -136,7 +136,7 @@ Here is the complete Markdown table built from all 360 entries in the **Keeper S
 | least privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | least-privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | —| —| —| — | acesso de menor privilégio |
 | master password | — | — | — | — | — | senha-mestra |
-| multi-tenant | — | — | — | — | — | multi-tenant |
+| multi-tenant | Multi-tenancy (or multi-tenant architecture) is a software architecture in which a single instance of an application serves multiple customers or organizations (called tenants) simultaneously. | — | — | — | — | multi-tenant |
 |  Notification Center | A feature for KeeperPAM - a central area where a user will receive alerts for certain actions. | — | — | — | — | Central de Avisos |
 | PAM | — | — | — | — | — | PAM |
 | passphrase | — | — | — | — | — | frase secreta |
