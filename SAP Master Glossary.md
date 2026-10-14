@@ -43,6 +43,7 @@
 | automated search for SAP Notes | — | — | — | — | — | busca automatizada para SAP Notes |
 | automatic replanning | — | — | — | — | — | replanejamento automático |
 | automotive | — | — | — | — | — | automotivo |
+| Autonomous Supply Chain Management | — | — | — | Yes | — | Autonomous Supply Chain Management |
 | backgrounds | — | — | — | — | — | planos de fundo |
 | Bank Relationship Agent | — | — | — | — | — | Agente de relacionamento bancário |
 | baseline activation service for SAP Asset Performance Management | — | — | — | — | — | serviço de ativação básico do SAP Asset Performance Management |
@@ -440,6 +441,7 @@
 | performance evaluation | — | — | — | — | — | avaliação de desempenho |
 | performance management | The ongoing process of setting goals, providing feedback, conducting reviews, and evaluating employee performance to align individual contribution with business objectives. | — | — | — | — | gestão de desempenho |
 | Performance Preparation Agent | — | — | — | — | — | Agente de preparação de desempenho |
+| perks | — | — | — | — | — | benefícios |
 | personalization | Delivering tailored content, offers, and experiences to individual customers based on their preferences, behavior, and context, powered by AI and real-time data. | — | — | — | — | personalização |
 | Pipeline Risk Analysis Agent | — | — | — | — | — | Agente de análise de riscos do pipeline |
 | PLM system integration(s) | — | — | — | — | — | Integrações de sistemas de PLM |
