@@ -54,7 +54,7 @@
 | border thickness | — | — | — | — | — | — | espessura do contorno |
 | Box | Box is a third party, cloud-based storage offering (i.e., www.box.com) | — | — | — | — | — | Box |
 | BPMN | — | — | — | — | — | Use "BPMN" sempre que possível, mas se precisar evitar muitas repetições, pode usar as outras traduções: Notação de Modelagem de Processos de Negócio, Notação BPMN, Modelagem de processos | BPMN |
-| BPMN diagram | — | — | — | — | — | нотация и моделирование рабочих процессов | diagrama BPMN |
+| BPMN diagram | — | — | — | — | — | A Business Process Model and Notation (BPMN) diagram is a standardized graphical map that shows the end-to-end steps of a business process using a universal set of shapes and icons. | diagrama BPMN |
 | brainstorm | — | — | — | — | — | Apesar de preferir termos traduzidos, sempre que possível, preferimos este termo em inglês mesmo. | brainstorm |
 | brainstorming | — | — | — | — | — | — | brainstorming |
 | brainstorming and ideation | Lucidspark template category name | — | — | — | — | — | brainstorming e geração de ideias |
