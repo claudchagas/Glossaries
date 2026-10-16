@@ -131,6 +131,7 @@
 | Keeper Family Plan | https://www.keepersecurity.com/keeperchat.html KeeperChat Family Plan is Keeper's Family messaging platform | — | — | — | — | — | — |
 | Keeper Password Manager | — | — | — | — | — | — | Gerenciador de senhas Keeper |
 | KeeperDB Proxy | — | — | — | — | — | — | KeeperDB Proxy |
+| Remote Browser Isolation (RBI) | — | — | — | — | — | — |Isolamento do navegador remoto (RBI) |
 | least privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | — | — | — | — | — | acesso de menor privilégio |
 | least-privilege access | A security best practice wherein human users and applications have the absolute minimum level of systems access they need to perform their tasks and no more. | — | — | — | — | — | acesso de menor privilégio |
 | master password | — | — | — | — | — | — | senha-mestra |
