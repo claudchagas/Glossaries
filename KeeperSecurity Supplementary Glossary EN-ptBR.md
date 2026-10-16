@@ -171,10 +171,9 @@ Session locks added in Sep 2026 review session are marked **[SL]**.
 | Race Weekend Performance | Desempenho no fim de semana de prova | Domain label — F1/motorsport context |
 | RBAC / Role-Based Access Control | RBAC / Controle de Acesso Baseado em Funções | **[SL]** IAM term; acronym retained — **not** 'Controle de acesso baseado em função' (singular) |
 | remediate actions / remediation actions | ações de correção | **[SL]** UI label — **not** 'corrigir ações' or 'ações de remediação' |
-| Remote Browser Isolation | Isolamento de navegador remoto | Cybersecurity/PAM feature term |
+| Remote Browser Isolation (RBI) | Isolamento do navegador remoto (RBI) | Cybersecurity/PAM feature term |
 | ROI Calculator | Calculadora de ROI | Product tool label; ROI **DNT** |
 | runtime | tempo de execução | **[SL]** Technical term for runtime in NHI/agent context |
-
 ---
 
 ## S
