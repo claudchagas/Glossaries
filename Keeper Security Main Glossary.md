@@ -1,5 +1,3 @@
-Here is the complete Markdown table built from all 360 entries in the **Keeper Security Main Glossary**, sorted A–Z, with duplicates resolved (entries lacking translations removed in favor of those with translations), and empty/no-input entries excluded.
-
 | English | Definition | Part of Speech | Source Case Sensitive? | Variations | Mandatory DNT | Notes | Portuguese (Brazil) [pt-BR] |
 |---|---|---|---|---|---|---|---|
 | Account Recovery | Account recovery is a process designed to get you back into your account when you don't have enough information to reset your password. | — | — | — | — | — | — |
