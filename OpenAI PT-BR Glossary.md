@@ -1,9 +1,3 @@
-# Glossary
-
-_Mojito OpenIA Project Glossary._
-
-## Github repo
-
 | English | Definition | Part of Speech | Source Case Sensitive? | Variations | Mandatory DNT | Notes | Portuguese (Brazil) [pt-BR] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3D avatar | — | — | — | — | — | — | Avatar 3D |
