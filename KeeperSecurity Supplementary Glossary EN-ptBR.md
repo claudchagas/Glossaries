@@ -150,7 +150,7 @@ Session locks added in Sep 2026 review session are marked **[SL]**.
 | OAuth permissions | permissões OAuth | Technical term; OAuth **DNT** |
 | offboarding | desligamento | **[SL]** HR/access management context |
 | One-Time Share | Compartilhamento único | Keeper feature name |
-| onboarding | ambientação | Locked glossary term — **not** 'integração' in formal/instructional copy; 'integração' acceptable in colloquial/quote context |
+| onboarding | integração | Locked glossary term — **not** 'ambientação' in formal/instructional copy; 'introdução' acceptable in colloquial/quote context |
 | Organization Impact | Impacto organizacional | Section/report label |
 | passkey / passkeys | passkey / passkeys | **DNT** — WebAuthn standard term; retained per Keeper and industry convention |
 | password rotation | rotação de senhas | Locked glossary term |
