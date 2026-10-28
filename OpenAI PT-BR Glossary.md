@@ -454,7 +454,7 @@
 | Include video recordings | — | — | — | — | — | — | Incluir gravações de vídeo |
 | Infographic poster | — | — | — | — | — | — | Pôster infográfico |
 | Input Language | — | — | — | — | — | — | Idioma de entrada |
-| Instant | — | — | — | — | — | — | Do not translate |
+| Instant | — | — | — | — | — | — | Instantânea |
 | Instant Checkout | Instant Checkout is an in-chat commerce feature within ChatGPT that lets users complete purchases directly inside the ChatGPT interface without going to an external website. | Proper Noun / Feature Name | Yes | — | — | — | Checkout Instantâneo |
 | Instructions | — | — | — | — | — | — | Instruções |
 | Intellectual property | — | — | — | — | — | — | Propriedade intelectual |
