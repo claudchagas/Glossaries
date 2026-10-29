@@ -110,7 +110,7 @@ Session locks added in Sep 2026 review session are marked **[SL]**.
 
 | English | PT-BR | Notes |
 |---|---|---|
-| Keeper Enterprise Password Manager | Gerenciador de senhas Keeper Enterprise | Product name — 'gerenciador' lowercase after brand |
+| Keeper Enterprise Password Manager | Enterprise Password Manager do Keeper | Product name — 'gerenciador' lowercase after brand |
 | Keeper Password Manager | Gerenciador de senhas Keeper | Product name |
 | Keeper Vault | Cofre do Keeper | Locked glossary term; 'vault' alone → 'cofre' |
 | KeeperPAM | KeeperPAM | **DNT** — masculine article: 'o KeeperPAM' |
