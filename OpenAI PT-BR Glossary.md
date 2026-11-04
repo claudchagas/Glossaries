@@ -519,7 +519,7 @@
 | Manage sites | — | — | — | — | — | — | Gerenciar sites |
 | Manage Subscription | — | — | — | — | — | — | Gerenciar assinatura |
 | Manage Subscriptions | — | — | — | — | — | — | Gerenciar assinaturas |
-| Manage workspace | — | — | — | — | — | — | Gerenciar workspace |
+| Manage workspace | — | — | — | — | — | — | Gerenciar espaços de trabalho |
 | manifest | A structured configuration file that describes a model, tool, or app’s capabilities and metadata. | Noun | No | — | — | — | manifesto |
 | Map Provider | — | — | — | — | — | — | Provedor de mapas |
 | Marketing measurement | — | — | — | — | — | — | Mensuração de marketing |
@@ -675,7 +675,7 @@
 | preference fine-tuning | A training technique where models are adjusted based on human or user preference feedback to better match desired behavior. | Noun | No | — | — | — | ajuste fino por preferências |
 | Preparedness Framework | OpenAI’s framework for assessing and mitigating severe risks from frontier AI capabilities (tracked categories, thresholds, safeguards). | Proper Noun / Feature Name | Yes | — | — | — | Preparedness Framework |
 | Preparing Calpico share | — | — | — | — | — | — | Preparando compartilhamento no Calpico |
-| Preparing your workspace | — | — | — | — | — | — | Preparando seu workspace |
+| Preparing your workspace | — | — | — | — | — | — | Preparando seu espaço de trabalho |
 | Pricing | — | — | — | — | — | — | Preços |
 | Prism | Prism is a free, cloud-based scientific writing environment from OpenAI that brings AI directly into research workflows. Built on LaTeX and available through ChatGPT, it’s designed for long-form scientific and technical documents and works alongside existing research tools without requiring local setup. | Proper Noun / Feature Name | Yes | — | True | — | — |
 | Privacy | — | — | — | — | — | — | Privacidade |
@@ -927,7 +927,7 @@
 | Thinking time | — | — | — | — | — | UI label - Soft | Tempo de raciocínio |
 | Third party cookies | — | — | — | — | — | — | Cookies de terceiros |
 | This project may include personal information | — | — | — | — | — | — | Este projeto pode incluir informações pessoais |
-| This Workspace | — | — | — | — | — | — | Este workspace |
+| This Workspace | — | — | — | — | — | — | Este espaço de trabalho |
 | thread | — | — | — | — | — | — | thread |
 | throughput | How much work a system completes per unit time (e.g., tokens/sec, requests/min), often constrained by rate limits and compute. | Noun | No | — | — | — | taxa de processamento |
 | Time range | — | — | — | — | — | — | Período |
