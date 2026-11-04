@@ -454,7 +454,7 @@
 | Include video recordings | — | — | — | — | — | — | Incluir gravações de vídeo |
 | Infographic poster | — | — | — | — | — | — | Pôster infográfico |
 | Input Language | — | — | — | — | — | — | Idioma de entrada |
-| Instant | — | — | — | — | — | — | Instantânea |
+| Instant | — | — | — | — | — | — | Do not translate |
 | Instant Checkout | Instant Checkout is an in-chat commerce feature within ChatGPT that lets users complete purchases directly inside the ChatGPT interface without going to an external website. | Proper Noun / Feature Name | Yes | — | — | — | Checkout Instantâneo |
 | Instructions | — | — | — | — | — | — | Instruções |
 | Intellectual property | — | — | — | — | — | — | Propriedade intelectual |
@@ -1035,7 +1035,7 @@
 | Who has access | — | — | — | — | — | — | Quem tem acesso |
 | Work | — | — | — | — | — | — | Trabalho |
 | Work email | — | — | — | — | — | — | E-mail profissional |
-| workspace | A shared environment where members of an organization can access ChatGPT, settings, and resources under a common account. | Proper Noun / Feature Name | No | — | — | — | workspace |
+| workspace | A shared environment where members of an organization can access ChatGPT, settings, and resources under a common account. | Proper Noun / Feature Name | No | — | — | — | espaço de trabalho |
 | Workspace analytics | — | — | — | — | — | — | Análises do workspace |
 | Workspaces | — | — | — | — | — | — | Workspaces |
 | Worktree | — | — | — | — | — | — | Worktree |
