@@ -519,7 +519,7 @@
 | Manage sites | — | — | — | — | — | — | Gerenciar sites |
 | Manage Subscription | — | — | — | — | — | — | Gerenciar assinatura |
 | Manage Subscriptions | — | — | — | — | — | — | Gerenciar assinaturas |
-| Manage workspace | — | — | — | — | — | — | Gerenciar espaços de trabalho |
+| Manage workspace | — | — | — | — | — | — | Gerenciar espaço de trabalho |
 | manifest | A structured configuration file that describes a model, tool, or app’s capabilities and metadata. | Noun | No | — | — | — | manifesto |
 | Map Provider | — | — | — | — | — | — | Provedor de mapas |
 | Marketing measurement | — | — | — | — | — | — | Mensuração de marketing |
