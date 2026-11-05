@@ -409,7 +409,7 @@
 | On premise | — | — | — | — | — | — | No local |
 | on-stack extensibility | — | — | — | — | — | — | extensibilidade em pilha |
 | Onboarding | — | — | — | — | — | — | Integração |
-| Onboarding / Offboarding | — | — | — | — | — | — | Integração / Desligamento |
+| Offboarding | — | — | — | — | — | — | Desligamento |
 | open standards | Publicly available technical specifications and protocols enabling interoperability between different systems and vendors. SAP's platform strategy emphasizes open standards. | — | — | — | — | — | padrões abertos |
 | operational excellence | The execution of business strategy more consistently and reliably than competitors, through continuous improvement of processes, people, and technology. | — | — | — | — | — | excelência operacional |
 | Order Automation Agent | — | — | — | — | — | — | Agente de automação de pedidos |
